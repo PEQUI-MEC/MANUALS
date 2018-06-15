@@ -1,0 +1,4 @@
+<map id="Vision::segmentAndSearch" name="Vision::segmentAndSearch">
+<area shape="rect" id="node2" href="$class_vision.html#af00cb00dca3916c4beebbd140ec8b153" title="Executes medianBlur, erode and dilate. " alt="" coords="233,5,385,32"/>
+<area shape="rect" id="node3" href="$class_vision.html#a717cabba99a7e8d5613df6dc699e31fe" title="Vision::searchTags" alt="" coords="242,56,377,83"/>
+</map>

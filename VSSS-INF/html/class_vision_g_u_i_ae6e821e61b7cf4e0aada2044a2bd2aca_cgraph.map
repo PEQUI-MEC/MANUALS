@@ -1,0 +1,43 @@
+<map id="VisionGUI::VisionGUI" name="VisionGUI::VisionGUI">
+<area shape="rect" id="node2" href="$class_vision_g_u_i.html#a9b0cac7f32fc402ce5aaff0325e39b77" title="Creates HSV calibration frame and its inner elements. Ataches interface signals (button pressing/clic..." alt="" coords="205,150,345,191"/>
+<area shape="rect" id="node9" href="$class_vision_g_u_i.html#a5022537a86f97e3eb1e037044301a0f7" title="Creates HSV calibration frame and its inner elements. Ataches interface signals (button pressing/clic..." alt="" coords="205,802,345,843"/>
+<area shape="rect" id="node39" href="$class_vision_g_u_i.html#aab78b384bacc2a12d385b1baef011ed4" title="Creates Split View frame and its inner elements. Ataches interface signals (signals pressing/clicking..." alt="" coords="205,963,345,1005"/>
+<area shape="rect" id="node41" href="$class_vision_g_u_i.html#a39e2afb8ee3002e43b15758604597c9c" title="Sets initial calibration parameter values shown at interface. " alt="" coords="204,1221,345,1262"/>
+<area shape="rect" id="node3" href="$class_vision_g_u_i.html#a78a250ff8c2520a56dce79d824dbeb85" title="Starts video recording when &#39;REC&#39; button is pressed, changing its label to &#39;Stop&#39;, and vice&#45;versa. If &#39;Video name&#39; textfield is empty, a numeric ID value will be assigned. " alt="" coords="413,66,557,107"/>
+<area shape="rect" id="node7" href="$class_vision_g_u_i.html#a0f0a52b29ccd843b3e5a200d2618cd6a" title="Saves the actual frame image in /media/pictures when &#39;save&#39; button is clicked If &#39;Picture name&#39; textf..." alt="" coords="417,150,553,191"/>
+<area shape="rect" id="node4" href="$class_vision.html#a7990c9cb8684e1d1c92a5b6aa99abe6f" title="Vision::isRecording" alt="" coords="649,5,784,32"/>
+<area shape="rect" id="node5" href="$class_vision.html#a5c7366071fde8a1b916be0721adaa275" title="Vision::finishVideo" alt="" coords="651,56,782,83"/>
+<area shape="rect" id="node6" href="$class_vision.html#ae3ec43e811508f326910f99c416332db" title="Vision::startNewVideo" alt="" coords="641,107,793,133"/>
+<area shape="rect" id="node8" href="$class_vision.html#a324ad2f355fa414ee484e8ce9b247ffc" title="Vision::savePicture" alt="" coords="649,157,784,184"/>
+<area shape="rect" id="node10" href="$class_vision_g_u_i.html#ad476738b0d45d8decb5d5789c7cbc611" title="Event triggered when HSV Calib button is pressed. " alt="" coords="404,1129,567,1170"/>
+<area shape="rect" id="node11" href="$class_vision_g_u_i.html#a5de4edcfe2bd349f940dc605a52bc70b" title="Event triggered when HSV Calib right button is pressed. " alt="" coords="415,460,556,516"/>
+<area shape="rect" id="node19" href="$class_vision_g_u_i.html#aa6d54a685b4bddbad91778a442fd7c8e" title="Event triggered when HSV Calib left button is pressed. " alt="" coords="394,394,577,435"/>
+<area shape="rect" id="node20" href="$class_vision_g_u_i.html#a5e1378fbaf15105bd898f6fd9e2d3d0e" title="Event triggered when &#39;Main &lt;&#45;&gt; Adv&#39; button is pressed. " alt="" coords="393,329,577,370"/>
+<area shape="rect" id="node22" href="$class_vision_g_u_i.html#a8c01178ecd9d517e941bd6075d69bcdd" title="Call Vision&#39;s setHue method passsing Hmin value as a parameter. " alt="" coords="400,606,571,647"/>
+<area shape="rect" id="node24" href="$class_vision_g_u_i.html#ad12a91dfc3c8cd3ef213d4d518d85267" title="Call Vision&#39;s setHue method passsing Hmax value as a parameter. " alt="" coords="398,541,573,582"/>
+<area shape="rect" id="node25" href="$class_vision_g_u_i.html#a4e521dabf97b0820f40272290b471ed2" title="Call Vision&#39;s setSaturation method passsing Smin value as a parameter. " alt="" coords="400,737,571,778"/>
+<area shape="rect" id="node27" href="$class_vision_g_u_i.html#a37cc33977d0cfdb559bf156ffad949ad" title="Call Vision&#39;s setSaturation method passsing Smax value as a parameter. " alt="" coords="398,671,573,713"/>
+<area shape="rect" id="node28" href="$class_vision_g_u_i.html#aaba5ce7bcd87c9ce9101f409695b3bd9" title="Call Vision&#39;s setValue method passsing Vmin value as a parameter. " alt="" coords="400,867,571,909"/>
+<area shape="rect" id="node30" href="$class_vision_g_u_i.html#a8446a9425209abafa824d6a8cb539248" title="Call Vision&#39;s setValue method passsing Vmax value as a parameter. " alt="" coords="398,802,573,843"/>
+<area shape="rect" id="node31" href="$class_vision_g_u_i.html#a945e5a987bdfb5b1d5d97bd18231d211" title="Call Vision&#39;s Erode method passsing Erode value as a parameter. " alt="" coords="398,933,573,974"/>
+<area shape="rect" id="node33" href="$class_vision_g_u_i.html#a77d74bbe2fdcc16d5cf18094d257d219" title="Call Vision&#39;s setDilate method passsing Dilate value as a parameter. " alt="" coords="398,998,573,1039"/>
+<area shape="rect" id="node35" href="$class_vision_g_u_i.html#a2f959701d835dd3fb53b20698754c013" title="Call Vision&#39;s setBlur method passsing Blur value as a parameter. " alt="" coords="404,1063,567,1105"/>
+<area shape="rect" id="node37" href="$class_vision_g_u_i.html#a5ac13b6caa3cef4ddc8137c432b645ba" title="Call Vision&#39;s setAmin method passsing Amin value as a parameter. " alt="" coords="400,1194,571,1235"/>
+<area shape="rect" id="node12" href="$class_vision.html#adc6eb838fa27551430516e80a547a6bd" title="Vision::getHue" alt="" coords="663,512,771,539"/>
+<area shape="rect" id="node13" href="$class_vision.html#a023ff4cc4ee3a88125fd2a3c60d1b529" title="Vision::getSaturation" alt="" coords="645,563,788,589"/>
+<area shape="rect" id="node14" href="$class_vision.html#a04d1bcce0fd15a5d66752723f21c0dea" title="Vision::getValue" alt="" coords="658,259,775,285"/>
+<area shape="rect" id="node15" href="$class_vision.html#a0d07157e3d9bb577940f03365c8f57e8" title="Vision::getDilate" alt="" coords="657,309,776,336"/>
+<area shape="rect" id="node16" href="$class_vision.html#a6cc4617b0af832b4cb94e00cc845c317" title="Vision::getErode" alt="" coords="657,360,776,387"/>
+<area shape="rect" id="node17" href="$class_vision.html#ad15cc7e3c696c7f52e30e7974337c74f" title="Vision::getBlur" alt="" coords="663,411,770,437"/>
+<area shape="rect" id="node18" href="$class_vision.html#a563041d47d11e0912227c3ce87dcc22e" title="Vision::getAmin" alt="" coords="659,461,774,488"/>
+<area shape="rect" id="node21" href="$class_vision.html#a11fa5150abbd3b37e78999b46b7b3a84" title="Vision::switchMainWithAdv" alt="" coords="625,208,808,235"/>
+<area shape="rect" id="node23" href="$class_vision.html#a3c3ebea1a7c54c69f2da94b78aaf79f1" title="Vision::setHue" alt="" coords="663,613,771,640"/>
+<area shape="rect" id="node26" href="$class_vision.html#a4a07d52d53fa8626e6dd7b36fed89841" title="Vision::setSaturation" alt="" coords="645,712,788,739"/>
+<area shape="rect" id="node29" href="$class_vision.html#a43213a295e6e199c261d141118be14ad" title="Vision::setValue" alt="" coords="658,843,775,869"/>
+<area shape="rect" id="node32" href="$class_vision.html#a1313404c61d1518f8b8cb354377ed5f1" title="Vision::setErode" alt="" coords="657,940,776,967"/>
+<area shape="rect" id="node34" href="$class_vision.html#a5a763aa322837556ab83f39ffb7e9391" title="Vision::setDilate" alt="" coords="657,1005,776,1032"/>
+<area shape="rect" id="node36" href="$class_vision.html#aa40b48aebdf61dfda490fbc2620d2ac3" title="Vision::setBlur" alt="" coords="663,1071,770,1097"/>
+<area shape="rect" id="node38" href="$class_vision.html#a15483736197991fac542022fd9652472" title="Vision::setAmin" alt="" coords="659,1201,774,1228"/>
+<area shape="rect" id="node40" href="$class_vision_g_u_i.html#a51c0888c14eb2b773e18d739df076e03" title="Turns &#39;isSplitView&#39; flag active when triggered when Split mode is selected. " alt="" coords="406,1259,565,1301"/>
+<area shape="rect" id="node42" href="$class_vision.html#a5871e49c1e8bdfd214c602707e8dfffc" title="Vision::setCalibParams" alt="" coords="406,1325,565,1352"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="VSSS_GUI::V4LInterface::__update_cb_frame_interval" name="VSSS_GUI::V4LInterface::__update_cb_frame_interval">
+<area shape="rect" id="node2" href="$classv4lcap.html#af4e34a5583945f2d24dd0cb298b5e191" title="enumerate frame intervals " alt="" coords="247,5,387,47"/>
+<area shape="rect" id="node4" href="$classv4lcap.html#aa5c521438e06e14625c05a02bafd35c1" title="Get the format object. " alt="" coords="251,71,382,98"/>
+<area shape="rect" id="node5" href="$classv4lcap.html#a067a6b97d6c4d3ea83454132f1d3c87e" title="Get the stream parameter object. " alt="" coords="250,123,383,164"/>
+<area shape="rect" id="node3" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="435,71,533,98"/>
+</map>

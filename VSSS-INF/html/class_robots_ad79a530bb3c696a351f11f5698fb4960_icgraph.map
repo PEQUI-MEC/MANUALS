@@ -1,0 +1,6 @@
+<map id="Robots::is_target_set" name="Robots::is_target_set">
+<area shape="rect" id="node2" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="383,5,573,32"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#a93f8ee79ed618c215139e40eb0485c9f" title="Executes the &#39;PID Test on click&#39; at the control panel. " alt="" coords="200,31,335,57"/>
+<area shape="rect" id="node3" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="621,5,771,32"/>
+<area shape="rect" id="node4" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="819,5,953,32"/>
+</map>

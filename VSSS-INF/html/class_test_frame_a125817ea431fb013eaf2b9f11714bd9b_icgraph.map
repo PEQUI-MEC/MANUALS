@@ -1,0 +1,5 @@
+<map id="TestFrame::setLabel" name="TestFrame::setLabel">
+<area shape="rect" id="node2" href="$class_control_g_u_i.html#a3bd87790c510afe1eb2fe7e33474d145" title="Creates the Text frame on Control Gui. " alt="" coords="200,5,375,47"/>
+<area shape="rect" id="node3" href="$class_strategy_g_u_i.html#aaeb2b9affadab5eafc8885f983a1cc36" title="Inicialization of labels and values from Test Parameters frame. " alt="" coords="196,71,379,112"/>
+<area shape="rect" id="node4" href="$class_strategy_g_u_i.html#a6676ae87f9ccabe157ec8e60f94041b7" title="Constructor of a StrategyGUI object. " alt="" coords="427,78,603,105"/>
+</map>

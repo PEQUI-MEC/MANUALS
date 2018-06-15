@@ -1,0 +1,11 @@
+<map id="Robots::set_usingPotField" name="Robots::set_usingPotField">
+<area shape="rect" id="node2" href="$class_strategy.html#aef2ebe9a76fdb114d547f024e332b3d3" title="Strategy::pot_field\l_around" alt="" coords="410,19,538,61"/>
+<area shape="rect" id="node9" href="$class_strategy.html#ac26f11116f795185176383122f9f088c" title="Strategy::potField" alt="" coords="229,56,355,83"/>
+<area shape="rect" id="node10" href="$class_strategy.html#a44da3c45d60d32f6ef2d81859d47b2b4" title="Strategy::reset_flags" alt="" coords="403,107,545,133"/>
+<area shape="rect" id="node3" href="$class_strategy.html#a7af0ec883fe9e80c31cf030ce203f956" title="Strategy::atk_routine" alt="" coords="593,5,736,32"/>
+<area shape="rect" id="node8" href="$class_strategy.html#a304c52736ec76d275adda7eeacdd430c" title="Strategy::def_routine" alt="" coords="593,56,736,83"/>
+<area shape="rect" id="node4" href="$class_strategy.html#ab1c455b23e8b7f3377132a3e243f8f76" title="Strategy::get_targets" alt="" coords="784,56,928,83"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="976,56,1167,83"/>
+<area shape="rect" id="node6" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="1215,56,1364,83"/>
+<area shape="rect" id="node7" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="1412,56,1547,83"/>
+</map>

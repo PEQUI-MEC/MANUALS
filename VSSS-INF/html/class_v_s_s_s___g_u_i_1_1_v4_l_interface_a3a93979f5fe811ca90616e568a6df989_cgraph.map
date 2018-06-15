@@ -1,0 +1,5 @@
+<map id="VSSS_GUI::V4LInterface::__create_frm_warp" name="VSSS_GUI::V4LInterface::__create_frm_warp">
+<area shape="rect" id="node2" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a624b2e48483cbf4fa8af562123f68b26" title="Switches invert_image_flag value when &#39;invert image&#39; is clicked. " alt="" coords="224,5,399,61"/>
+<area shape="rect" id="node3" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a52c94944c17c9ceaba03dd8f2f1849bf" title="Updates the left offset value when the slider position is changed. " alt="" coords="226,85,397,141"/>
+<area shape="rect" id="node4" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#aee8d612db51e54e9fdcd13fe97dac999" title="Updates the right offset value when the slider position is changed. " alt="" coords="226,165,397,221"/>
+</map>

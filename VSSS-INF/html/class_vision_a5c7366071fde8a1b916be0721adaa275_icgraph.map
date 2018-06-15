@@ -1,0 +1,8 @@
+<map id="Vision::finishVideo" name="Vision::finishVideo">
+<area shape="rect" id="node2" href="$class_vision_g_u_i.html#a78a250ff8c2520a56dce79d824dbeb85" title="Starts video recording when &#39;REC&#39; button is pressed, changing its label to &#39;Stop&#39;, and vice&#45;versa. If &#39;Video name&#39; textfield is empty, a numeric ID value will be assigned. " alt="" coords="197,5,341,47"/>
+<area shape="rect" id="node5" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8c3f91048adebeb0b5aa9838053cdcfe" title="Event triggered when start button is clicked. Starts/finishes video recording. " alt="" coords="184,71,355,127"/>
+<area shape="rect" id="node7" href="$class_vision_g_u_i.html#ae4892f8f0cff14a0d65ee55261b08999" title="VisionGUI::~VisionGUI" alt="" coords="190,151,349,178"/>
+<area shape="rect" id="node3" href="$class_vision_g_u_i.html#a9b0cac7f32fc402ce5aaff0325e39b77" title="Creates HSV calibration frame and its inner elements. Ataches interface signals (button pressing/clic..." alt="" coords="418,5,558,47"/>
+<area shape="rect" id="node4" href="$class_vision_g_u_i.html#ae6e821e61b7cf4e0aada2044a2bd2aca" title="VisionGUI::VisionGUI" alt="" coords="621,13,772,39"/>
+<area shape="rect" id="node6" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8fafd828eacc6d5480649fa9fddc7ee4" title="Constructor of a V4LInterface object. " alt="" coords="403,79,573,120"/>
+</map>

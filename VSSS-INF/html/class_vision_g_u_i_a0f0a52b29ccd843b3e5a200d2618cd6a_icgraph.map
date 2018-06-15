@@ -1,0 +1,4 @@
+<map id="VisionGUI::bt_save_picture_clicked" name="VisionGUI::bt_save_picture_clicked">
+<area shape="rect" id="node2" href="$class_vision_g_u_i.html#a9b0cac7f32fc402ce5aaff0325e39b77" title="Creates HSV calibration frame and its inner elements. Ataches interface signals (button pressing/clic..." alt="" coords="189,5,329,47"/>
+<area shape="rect" id="node3" href="$class_vision_g_u_i.html#ae6e821e61b7cf4e0aada2044a2bd2aca" title="VisionGUI::VisionGUI" alt="" coords="377,13,528,39"/>
+</map>

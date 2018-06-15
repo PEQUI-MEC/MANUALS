@@ -1,0 +1,4 @@
+<map id="CPUTimer::stop" name="CPUTimer::stop">
+<area shape="rect" id="node2" href="$class_c_p_u_timer.html#a3403f8cce7b7518e47a1826b8650220c" title="CPUTimer::getCPUTime" alt="" coords="171,5,339,32"/>
+<area shape="rect" id="node3" href="$class_c_p_u_timer.html#a57da0f833904f3ddf20a640e0f8fe127" title="CPUTimer::getRealTime" alt="" coords="171,56,338,83"/>
+</map>

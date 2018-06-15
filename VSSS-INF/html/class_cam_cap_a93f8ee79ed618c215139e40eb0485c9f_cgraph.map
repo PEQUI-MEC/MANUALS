@@ -1,0 +1,12 @@
+<map id="CamCap::PID_test" name="CamCap::PID_test">
+<area shape="rect" id="node2" href="$class_cam_cap.html#a6595a726e77091a8accf19e62dc55e41" title="Calculates the euclidean distance between two given points. " alt="" coords="208,5,339,32"/>
+<area shape="rect" id="node3" href="$class_robots.html#a1fca8f2f5070176faa6ba1efa2f1ff14" title="Robots::get_position" alt="" coords="202,56,345,83"/>
+<area shape="rect" id="node6" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#afb1f877ebf3a82de783f6860979eea85" title="VSSS_GUI::V4LInterface\l::get_start_game_flag" alt="" coords="188,107,359,149"/>
+<area shape="rect" id="node7" href="$class_robots.html#a8a4fe339df4823e45cf34d9fb8daa64b" title="Robots::get_target" alt="" coords="208,173,339,200"/>
+<area shape="rect" id="node8" href="$class_robots.html#ad79a530bb3c696a351f11f5698fb4960" title="Robots::is_target_set" alt="" coords="200,224,347,251"/>
+<area shape="rect" id="node9" href="$class_robots.html#ae5034abea0160aac1d77ad154ee77f64" title="Robots::set_command" alt="" coords="196,275,351,301"/>
+<area shape="rect" id="node10" href="$class_robots.html#ac1cd5c41b6e5d5643b2186ca51699c8f" title="Robots::set_target" alt="" coords="208,325,339,352"/>
+<area shape="rect" id="node11" href="$class_robots.html#ac3452d86940fa017a16f7be4fe099d89" title="Robots::stop" alt="" coords="225,376,322,403"/>
+<area shape="rect" id="node4" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="407,249,553,276"/>
+<area shape="rect" id="node5" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="601,249,716,276"/>
+</map>

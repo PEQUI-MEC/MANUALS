@@ -1,0 +1,7 @@
+<map id="compare_pos" name="compare_pos">
+<area shape="rect" id="node2" href="$class_strategy.html#a35458436b6f9d4f080ce8415af3dc599" title="Strategy::set_roles" alt="" coords="153,5,285,32"/>
+<area shape="rect" id="node3" href="$class_strategy.html#ab1c455b23e8b7f3377132a3e243f8f76" title="Strategy::get_targets" alt="" coords="333,5,477,32"/>
+<area shape="rect" id="node4" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="525,5,716,32"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="764,5,913,32"/>
+<area shape="rect" id="node6" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="961,5,1096,32"/>
+</map>

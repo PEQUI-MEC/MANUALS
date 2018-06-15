@@ -1,0 +1,6 @@
+<map id="CPUTimer::operator+=" name="CPUTimer::operator+=">
+<area shape="rect" id="node2" href="$class_c_p_u_timer.html#a98f96656fd5e6676064ac6e5f3c7621b" title="CPUTimer::getCPUCurrSecs" alt="" coords="213,5,407,32"/>
+<area shape="rect" id="node3" href="$class_c_p_u_timer.html#a9547512dbcec01ea685d291569a87aa4" title="CPUTimer::getCPUTotalSecs" alt="" coords="211,56,409,83"/>
+<area shape="rect" id="node4" href="$class_c_p_u_timer.html#a363d9ba80f897fe24914cce080bf3b52" title="CPUTimer::getCronoCurrSecs" alt="" coords="210,107,410,133"/>
+<area shape="rect" id="node5" href="$class_c_p_u_timer.html#aa8736023dbfa50166f8e49960ad84a84" title="CPUTimer::getCronoTotalSecs" alt="" coords="208,157,412,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="v4lcap::enqueue_buff" name="v4lcap::enqueue_buff">
+<area shape="rect" id="node2" href="$classv4lcap.html#acf3b811bf1d1db9842fef40e930813d7" title="v4lcap::enqueue_buff" alt="" coords="204,5,351,32"/>
+<area shape="rect" id="node3" href="$classv4lcap.html#a2974ed334916901ebfd9a59aed2428e8" title="v4lcap::grab_raw" alt="" coords="217,56,338,83"/>
+<area shape="rect" id="node4" href="$classv4lcap.html#a4ef7f2a17a32f5b89bf9ddce123a3b52" title="v4lcap::grab_rgb" alt="" coords="218,107,337,133"/>
+<area shape="rect" id="node9" href="$classv4lcap.html#a4a7ee51c878ec735c9a24b517c63df16" title="This method starts capturing and streaming from opened device passing memory type and number of buffe..." alt="" coords="200,164,355,191"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="403,48,593,75"/>
+<area shape="rect" id="node8" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a4253d7fbc31e63ce398d47317baaf3a5" title="VSSS_GUI::V4LInterface\l::grab_rgb" alt="" coords="413,99,583,141"/>
+<area shape="rect" id="node6" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="652,48,801,75"/>
+<area shape="rect" id="node7" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="860,48,995,75"/>
+<area shape="rect" id="node10" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ac83a8f5a54baf09ade5e3ec24ba91082" title="Event triggered when &#39;start&#39; button is clicked. " alt="" coords="411,165,585,206"/>
+<area shape="rect" id="node11" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8fafd828eacc6d5480649fa9fddc7ee4" title="Constructor of a V4LInterface object. " alt="" coords="641,165,812,206"/>
+</map>

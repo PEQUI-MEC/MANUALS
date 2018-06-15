@@ -1,0 +1,51 @@
+<map id="CamCap::capture_and_show" name="CamCap::capture_and_show">
+<area shape="rect" id="node2" href="$class_cam_cap.html#afb044a7b5b3b2f17af62e3115e84993e" title="Draws an arrow between two given points. " alt="" coords="270,29,422,55"/>
+<area shape="rect" id="node3" href="$class_cam_cap.html#a848749241df00e03c5fca82cc9423fdd" title="Creates the formation (creation and load) interface. " alt="" coords="251,79,441,106"/>
+<area shape="rect" id="node4" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#afb1f877ebf3a82de783f6860979eea85" title="VSSS_GUI::V4LInterface\l::get_start_game_flag" alt="" coords="502,71,673,112"/>
+<area shape="rect" id="node6" href="$class_strategy.html#a08e53a7b4e9239e2536dcdbf2cc6abf5" title="Strategy::get_Ball_Est" alt="" coords="269,1247,423,1274"/>
+<area shape="rect" id="node7" href="$class_robots.html#a1fca8f2f5070176faa6ba1efa2f1ff14" title="Robots::get_position" alt="" coords="747,558,889,585"/>
+<area shape="rect" id="node9" href="$class_robots.html#a2ebc2bd5efa2313e9f39d676fa70f86a" title="Robots::get_secondary_tag" alt="" coords="727,1095,909,1122"/>
+<area shape="rect" id="node10" href="$class_robots.html#a8a4fe339df4823e45cf34d9fb8daa64b" title="Robots::get_target" alt="" coords="753,783,883,810"/>
+<area shape="rect" id="node11" href="$class_strategy.html#ab1c455b23e8b7f3377132a3e243f8f76" title="Strategy::get_targets" alt="" coords="274,441,418,467"/>
+<area shape="rect" id="node22" href="$class_robots.html#af3cabeacfb88dd920f581939935e76ca" title="Robots::get_transAngle" alt="" coords="739,994,897,1021"/>
+<area shape="rect" id="node23" href="$class_vision.html#ade08a555c6bcba89ee6a60be24f95c5b" title="Vision::getAdvs" alt="" coords="289,1298,403,1325"/>
+<area shape="rect" id="node24" href="$class_c_p_u_timer.html#aa8736023dbfa50166f8e49960ad84a84" title="CPUTimer::getCronoTotalSecs" alt="" coords="244,1349,448,1375"/>
+<area shape="rect" id="node25" href="$class_vision_g_u_i.html#a2d3a0e0b04ac1b80070e9123ec354d83" title="VisionGUI::getIsSplitView" alt="" coords="259,1399,433,1426"/>
+<area shape="rect" id="node26" href="$class_vision.html#a5543116011e744661d9e60a70012bc6c" title="Vision::getSplitFrame" alt="" coords="273,1450,419,1477"/>
+<area shape="rect" id="node27" href="$class_vision.html#a8dbf66a10209a8c92480b303e1eac3de" title="Vision::getThreshold" alt="" coords="275,1501,417,1527"/>
+<area shape="rect" id="node28" href="$classv4lcap.html#a4ef7f2a17a32f5b89bf9ddce123a3b52" title="v4lcap::grab_rgb" alt="" coords="287,1551,405,1578"/>
+<area shape="rect" id="node31" href="$class_robots.html#ad79a530bb3c696a351f11f5698fb4960" title="Robots::is_target_set" alt="" coords="514,1045,661,1071"/>
+<area shape="rect" id="node32" href="$class_cam_cap.html#ad34d9213700050e66a66e63d027b9bf0" title="Notifies all waiting threads through a conditional variable. " alt="" coords="273,1603,419,1644"/>
+<area shape="rect" id="node33" href="$class_cam_cap.html#a93f8ee79ed618c215139e40eb0485c9f" title="Executes the &#39;PID Test on click&#39; at the control panel. " alt="" coords="279,893,413,919"/>
+<area shape="rect" id="node35" href="$class_image_view.html#a1c14fbed1a32a6f159c9916b6bd04d0a" title="ImageView::refresh" alt="" coords="279,1669,413,1695"/>
+<area shape="rect" id="node36" href="$class_c_p_u_timer.html#ae9c1b873923f73091dae7e5a6051baf6" title="CPUTimer::reset" alt="" coords="285,1719,407,1746"/>
+<area shape="rect" id="node37" href="$class_robots.html#af9dfd621b03a3c6a52810610abdb6a9d" title="Robots::reset_commands" alt="" coords="732,1146,904,1173"/>
+<area shape="rect" id="node38" href="$class_robots.html#ade0caad007f6bbc5cdb35182a16780b7" title="Robots::reset_targets" alt="" coords="744,1197,892,1223"/>
+<area shape="rect" id="node39" href="$class_vision.html#a8d7335b29584429ff5b5c24958896b08" title="Call preProcessing() method, searchTags() and pick&#45;a&#45;tag() " alt="" coords="304,1770,388,1797"/>
+<area shape="rect" id="node40" href="$class_vision_g_u_i.html#a26659931ea77f5b975fe1d0ce101c74c" title="VisionGUI::selectFrame" alt="" coords="265,1821,427,1847"/>
+<area shape="rect" id="node41" href="$class_strategy.html#a7119e796ed0218f4e44418fea1efdf49" title="Strategy::set_Ball" alt="" coords="283,1871,409,1898"/>
+<area shape="rect" id="node42" href="$class_image_view.html#a34baa17952c6cbc4374f1bb6bdbbd757" title="ImageView::set_data" alt="" coords="273,1922,419,1949"/>
+<area shape="rect" id="node43" href="$class_c_p_u_timer.html#a8712b4f64c79a210e91bbb72ed55bfc1" title="CPUTimer::start" alt="" coords="287,1973,405,1999"/>
+<area shape="rect" id="node44" href="$class_c_p_u_timer.html#afc986e87c38afb37b7911f8424726d1d" title="CPUTimer::stop" alt="" coords="287,2023,405,2050"/>
+<area shape="rect" id="node45" href="$class_control_g_u_i.html#a7cdf0036f7b6c8ad8c9fb2a1c36e9c39" title="Gets the gap between sent messages (through flyingMessenger&#39;s get time function) and shows it on inte..." alt="" coords="279,2075,413,2116"/>
+<area shape="rect" id="node46" href="$class_robot_g_u_i.html#a88e9422aa99db2dd70403650ab1551a4" title="RobotGUI::update_robot\l_functions" alt="" coords="264,2140,428,2181"/>
+<area shape="rect" id="node47" href="$class_robot_g_u_i.html#aeb4d6cd3764ae5d1d7a24a5565aa42cb" title="RobotGUI::update_speed\l_progressBars" alt="" coords="261,2205,431,2247"/>
+<area shape="rect" id="node48" href="$class_cam_cap.html#afc272fe8b0ddc82386dbf827aed7db78" title="Updates the position of all captured elements. " alt="" coords="251,2271,441,2298"/>
+<area shape="rect" id="node49" href="$class_cam_cap.html#a8bab2cf2a40f386ab20480cfc83ac77c" title="Sends robots to the target position and orientation. " alt="" coords="250,842,442,869"/>
+<area shape="rect" id="node50" href="$class_cam_cap.html#a90c0560e51d69bc551ae17c72edb3028" title="Adjusts the image framing. " alt="" coords="260,2322,432,2349"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#afa26f0cbaee5db899735934f3548ebe9" title="Updates information given by interface in strategy. " alt="" coords="496,5,679,47"/>
+<area shape="rect" id="node8" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="957,1019,1104,1046"/>
+<area shape="rect" id="node12" href="$class_strategy.html#aa292ccd0034d6507ffa7d5dc35862a94" title="Strategy::get_variables" alt="" coords="509,289,665,315"/>
+<area shape="rect" id="node13" href="$class_strategy.html#a44da3c45d60d32f6ef2d81859d47b2b4" title="Strategy::reset_flags" alt="" coords="516,339,659,366"/>
+<area shape="rect" id="node14" href="$class_strategy.html#a35458436b6f9d4f080ce8415af3dc599" title="Strategy::set_roles" alt="" coords="521,238,653,265"/>
+<area shape="rect" id="node15" href="$class_strategy.html#a0e93b877f1da0c7a608c5641812f54d4" title="Strategy::gk_routine" alt="" coords="518,558,657,585"/>
+<area shape="rect" id="node16" href="$class_strategy.html#a304c52736ec76d275adda7eeacdd430c" title="Strategy::def_routine" alt="" coords="516,390,659,417"/>
+<area shape="rect" id="node17" href="$class_strategy.html#a7af0ec883fe9e80c31cf030ce203f956" title="Strategy::atk_routine" alt="" coords="516,441,659,467"/>
+<area shape="rect" id="node18" href="$class_robots.html#a42f3e3d3b1d8c41ad6180a03427458bf" title="Robots::get_usingPotField" alt="" coords="730,322,906,349"/>
+<area shape="rect" id="node19" href="$class_strategy.html#afa755796f0301750d616afac02ac935a" title="Strategy::position\l_to_vector" alt="" coords="525,492,649,533"/>
+<area shape="rect" id="node20" href="$class_strategy.html#aabfdf0c3cd206c94e8b37f86bb387a61" title="Strategy::fixed_position\l_check" alt="" coords="508,711,667,752"/>
+<area shape="rect" id="node21" href="$class_strategy.html#a8d1fa6e7cb13f7eb135bc853beef462d" title="Strategy::collision\l_check" alt="" coords="524,776,651,817"/>
+<area shape="rect" id="node29" href="$classv4lcap.html#a73678c131c1ac6c555be3ea125be08da" title="Dequeue buffers allocated. " alt="" coords="514,1577,661,1603"/>
+<area shape="rect" id="node30" href="$classv4lcap.html#a61dcacb5bb57a9f8c72d6942f46e9ddc" title="Enqueue requested buffers and set capture params. " alt="" coords="514,1526,661,1553"/>
+<area shape="rect" id="node34" href="$class_cam_cap.html#a6595a726e77091a8accf19e62dc55e41" title="Calculates the euclidean distance between two given points. " alt="" coords="522,842,653,869"/>
+</map>

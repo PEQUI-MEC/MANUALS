@@ -1,0 +1,9 @@
+<map id="Strategy::def_wait" name="Strategy::def_wait">
+<area shape="rect" id="node2" href="$class_strategy.html#aacce05caed71553c4efd2d28c9c3aa39" title="Strategy::distance" alt="" coords="191,5,319,32"/>
+<area shape="rect" id="node3" href="$class_robots.html#a1fca8f2f5070176faa6ba1efa2f1ff14" title="Robots::get_position" alt="" coords="184,56,327,83"/>
+<area shape="rect" id="node6" href="$class_robots.html#a8a4fe339df4823e45cf34d9fb8daa64b" title="Robots::get_target" alt="" coords="190,107,321,133"/>
+<area shape="rect" id="node7" href="$class_robots.html#a3b307142c41d7adc7614e6e4f2caf16b" title="Robots::look_at" alt="" coords="198,157,313,184"/>
+<area shape="rect" id="node8" href="$class_robots.html#a427266e3332ab91bb3a78b5fb61a6c2c" title="Robots::set_fixedPos" alt="" coords="181,208,329,235"/>
+<area shape="rect" id="node4" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="377,132,524,159"/>
+<area shape="rect" id="node5" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="572,132,687,159"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="VSSS_GUI::V4LInterface::__event_cb_standard_changed" name="VSSS_GUI::V4LInterface::__event_cb_standard_changed">
+<area shape="rect" id="node2" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ac3fe0a20fd30c6e9505eb375ef63e52e" title="Update all combo box inputs on CaptureGUI. " alt="" coords="224,313,395,354"/>
+<area shape="rect" id="node19" href="$classv4lcap.html#a5ce097aed8f4d0aee209e0c78924812d" title="Set the standard object. " alt="" coords="238,461,381,488"/>
+<area shape="rect" id="node3" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a33ec32eed4c06634040616c52b588e01" title="VSSS_GUI::V4LInterface\l::__update_cb_input" alt="" coords="443,95,613,137"/>
+<area shape="rect" id="node8" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a0decb6d5b23790bf902f9d202d727235" title="VSSS_GUI::V4LInterface\l::__update_cb_standard" alt="" coords="443,222,613,263"/>
+<area shape="rect" id="node11" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ad2da97031a8ca5d9e2d99f5a5459c267" title="VSSS_GUI::V4LInterface\l::__update_cb_format_desc" alt="" coords="667,281,849,322"/>
+<area shape="rect" id="node14" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ab30bca15d7c9ffb5d3e7bc38ad2def25" title="VSSS_GUI::V4LInterface\l::__update_cb_frame_size" alt="" coords="671,346,845,387"/>
+<area shape="rect" id="node16" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a0eeae871fc38dab3693860f6f391e062" title="VSSS_GUI::V4LInterface\l::__update_cb_frame_interval" alt="" coords="661,423,855,465"/>
+<area shape="rect" id="node4" href="$classv4lcap.html#a11e01d9043a7cb3537a772cc3a5bacb5" title="Get the input object. " alt="" coords="697,44,819,71"/>
+<area shape="rect" id="node7" href="$classv4lcap.html#a77a9eda7d80dcf417afd97e6417d900b" title="Enumerate video inputs. " alt="" coords="689,95,827,137"/>
+<area shape="rect" id="node5" href="$classv4lcap.html#ad6cf8417903c40e86a087a236cd39337" title="Get the input index object. " alt="" coords="909,48,1067,75"/>
+<area shape="rect" id="node6" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="1121,273,1220,300"/>
+<area shape="rect" id="node9" href="$classv4lcap.html#ad3ae859cc6d6d99146619ba550514aab" title="Get the standard object. " alt="" coords="687,179,829,205"/>
+<area shape="rect" id="node10" href="$classv4lcap.html#a236476c3f736c1870a63ed79f4c1d5a9" title="Enumerate supported video. " alt="" coords="919,201,1057,242"/>
+<area shape="rect" id="node12" href="$classv4lcap.html#aa5c521438e06e14625c05a02bafd35c1" title="Get the format object. " alt="" coords="923,332,1053,359"/>
+<area shape="rect" id="node13" href="$classv4lcap.html#a4f5a8ccdd2a75e9d2f2d4d541fdb84dd" title="Enumerate image formats. " alt="" coords="917,266,1059,307"/>
+<area shape="rect" id="node15" href="$classv4lcap.html#a6b806d7b2bfce38081f71fe01f380f6f" title="Enumerate frame sizes. " alt="" coords="903,383,1073,409"/>
+<area shape="rect" id="node17" href="$classv4lcap.html#a067a6b97d6c4d3ea83454132f1d3c87e" title="Get the stream parameter object. " alt="" coords="921,434,1055,475"/>
+<area shape="rect" id="node18" href="$classv4lcap.html#af4e34a5583945f2d24dd0cb298b5e191" title="enumerate frame intervals " alt="" coords="918,499,1058,541"/>
+</map>

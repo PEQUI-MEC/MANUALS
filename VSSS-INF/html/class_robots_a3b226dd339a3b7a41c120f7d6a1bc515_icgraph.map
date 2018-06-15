@@ -1,0 +1,13 @@
+<map id="Robots::get_default_velocity" name="Robots::get_default_velocity">
+<area shape="rect" id="node2" href="$class_strategy.html#aabfdf0c3cd206c94e8b37f86bb387a61" title="Strategy::fixed_position\l_check" alt="" coords="191,7,350,49"/>
+<area shape="rect" id="node7" href="$classjson_save_manager.html#ad5acf46f5a0620389055c16c3faa2519" title="Save robot configurations from interface to our JSON object. " alt="" coords="189,91,352,133"/>
+<area shape="rect" id="node3" href="$class_strategy.html#ab1c455b23e8b7f3377132a3e243f8f76" title="Strategy::get_targets" alt="" coords="409,11,553,37"/>
+<area shape="rect" id="node4" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="611,5,801,32"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="860,5,1009,32"/>
+<area shape="rect" id="node6" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="1068,5,1203,32"/>
+<area shape="rect" id="node8" href="$classjson_save_manager.html#a3e628f770c39e0111b46dac21d966171" title="Saves all volatile data set in the interface to a given .json file. " alt="" coords="400,135,563,161"/>
+<area shape="rect" id="node9" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a018c35ae221964d08f1abb40ba01abcf" title="Event triggered when &#39;Quick Save&#39; button is clicked. " alt="" coords="621,56,791,112"/>
+<area shape="rect" id="node11" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a86cbf672edfd408bcac975be8dbacffd" title="Event triggered when &#39;Save&#39; button is clicked. " alt="" coords="617,137,795,178"/>
+<area shape="rect" id="node12" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8c3f91048adebeb0b5aa9838053cdcfe" title="Event triggered when start button is clicked. Starts/finishes video recording. " alt="" coords="621,203,791,259"/>
+<area shape="rect" id="node10" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8fafd828eacc6d5480649fa9fddc7ee4" title="Constructor of a V4LInterface object. " alt="" coords="849,137,1020,178"/>
+</map>

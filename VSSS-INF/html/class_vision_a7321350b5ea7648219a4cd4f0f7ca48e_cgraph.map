@@ -1,0 +1,5 @@
+<map id="Vision::findTags" name="Vision::findTags">
+<area shape="rect" id="node2" href="$class_vision.html#a0e43481439b4b670f5dd66caefa09494" title="invokes posProcessing() and searchTags() methods " alt="" coords="169,31,349,57"/>
+<area shape="rect" id="node3" href="$class_vision.html#af00cb00dca3916c4beebbd140ec8b153" title="Executes medianBlur, erode and dilate. " alt="" coords="397,5,549,32"/>
+<area shape="rect" id="node4" href="$class_vision.html#a717cabba99a7e8d5613df6dc699e31fe" title="Vision::searchTags" alt="" coords="406,56,541,83"/>
+</map>

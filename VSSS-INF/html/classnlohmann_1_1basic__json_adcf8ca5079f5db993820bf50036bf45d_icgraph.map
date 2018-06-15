@@ -1,0 +1,8 @@
+<map id="nlohmann::basic_json::value" name="nlohmann::basic_json::value">
+<area shape="rect" id="node2" href="$classjson_save_manager.html#a437ba67544a0115bf0242c85b92018b3" title="Save camera configurations from interface to our JSON object. " alt="" coords="201,86,364,127"/>
+<area shape="rect" id="node3" href="$classjson_save_manager.html#a3e628f770c39e0111b46dac21d966171" title="Saves all volatile data set in the interface to a given .json file. " alt="" coords="412,93,575,120"/>
+<area shape="rect" id="node4" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a018c35ae221964d08f1abb40ba01abcf" title="Event triggered when &#39;Quick Save&#39; button is clicked. " alt="" coords="626,5,797,61"/>
+<area shape="rect" id="node6" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a86cbf672edfd408bcac975be8dbacffd" title="Event triggered when &#39;Save&#39; button is clicked. " alt="" coords="623,86,800,127"/>
+<area shape="rect" id="node7" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8c3f91048adebeb0b5aa9838053cdcfe" title="Event triggered when start button is clicked. Starts/finishes video recording. " alt="" coords="626,152,797,208"/>
+<area shape="rect" id="node5" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8fafd828eacc6d5480649fa9fddc7ee4" title="Constructor of a V4LInterface object. " alt="" coords="848,86,1019,127"/>
+</map>

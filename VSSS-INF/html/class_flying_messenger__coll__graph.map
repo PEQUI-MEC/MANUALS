@@ -1,0 +1,5 @@
+<map id="FlyingMessenger" name="FlyingMessenger">
+<area shape="rect" id="node2" href="$class_serial_com.html" title="SerialCom" alt="" coords="156,407,239,433"/>
+<area shape="rect" id="node6" href="$structrobot__xbee.html" title="robot_xbee" alt="" coords="154,199,241,225"/>
+<area shape="rect" id="node9" href="$structack__count.html" title="ack_count" alt="" coords="300,109,383,136"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Robots::stop" name="Robots::stop">
+<area shape="rect" id="node2" href="$class_strategy.html#aabfdf0c3cd206c94e8b37f86bb387a61" title="Strategy::fixed_position\l_check" alt="" coords="151,5,309,47"/>
+<area shape="rect" id="node7" href="$class_cam_cap.html#a93f8ee79ed618c215139e40eb0485c9f" title="Executes the &#39;PID Test on click&#39; at the control panel. " alt="" coords="362,67,497,94"/>
+<area shape="rect" id="node3" href="$class_strategy.html#ab1c455b23e8b7f3377132a3e243f8f76" title="Strategy::get_targets" alt="" coords="357,15,501,42"/>
+<area shape="rect" id="node4" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="549,42,740,69"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="788,42,937,69"/>
+<area shape="rect" id="node6" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="985,42,1120,69"/>
+</map>

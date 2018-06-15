@@ -1,0 +1,14 @@
+<map id="CamCap" name="CamCap">
+<area shape="rect" id="node27" href="$class_strategy_g_u_i.html" title="StrategyGUI" alt="" coords="935,3664,1030,3691"/>
+<area shape="rect" id="node29" href="$class_strategy.html" title="Strategy" alt="" coords="557,3576,628,3603"/>
+<area shape="rect" id="node43" href="$class_image_view.html" title="ImageView" alt="" coords="549,3156,636,3183"/>
+<area shape="rect" id="node4" href="$class_control_g_u_i.html" title="ControlGUI" alt="" coords="939,696,1027,723"/>
+<area shape="rect" id="node41" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html" title="VSSS_GUI::V4LInterface" alt="" coords="897,2361,1068,2388"/>
+<area shape="rect" id="node21" href="$class_flying_messenger.html" title="FlyingMessenger" alt="" coords="532,475,653,501"/>
+<area shape="rect" id="node49" href="$class_c_p_u_timer.html" title="CPUTimer" alt="" coords="551,260,635,287"/>
+<area shape="rect" id="node8" href="$class_test_frame.html" title="TestFrame" alt="" coords="201,1329,287,1356"/>
+<area shape="rect" id="node34" href="$class_strategy_g_u_i_1_1_model_columns.html" title="StrategyGUI::ModelColumns" alt="" coords="497,3627,688,3653"/>
+<area shape="rect" id="node42" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_frmivalenum \&gt;" alt="" coords="507,2063,678,2119"/>
+<area shape="rect" id="node44" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_fmtdesc \&gt;" alt="" coords="507,2213,678,2269"/>
+<area shape="rect" id="node47" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_standard \&gt;" alt="" coords="507,2929,678,2985"/>
+</map>
