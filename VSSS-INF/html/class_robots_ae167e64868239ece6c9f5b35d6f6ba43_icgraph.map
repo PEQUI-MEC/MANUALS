@@ -1,5 +1,0 @@
-<map id="Robots::set_default_role_velocity" name="Robots::set_default_role_velocity">
-<area shape="rect" id="node2" href="$class_robot_g_u_i.html#a7acb7bdc8533f946f2cbea74966147cc" title="RobotGUI::event_robots\l_speed_done_bt_signal\l_clicked" alt="" coords="189,5,353,61"/>
-<area shape="rect" id="node3" href="$class_robot_g_u_i.html#a05b171a9b805af42e32ed9036478dafe" title="RobotGUI::create_speeds\l_frame" alt="" coords="401,13,576,54"/>
-<area shape="rect" id="node4" href="$class_robot_g_u_i.html#a6e5874c7d6304555c48b08bd9c381253" title="RobotGUI::RobotGUI" alt="" coords="624,20,772,47"/>
-</map>

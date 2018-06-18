@@ -1,9 +1,0 @@
-<map id="v4lcap::query_control" name="v4lcap::query_control">
-<area shape="rect" id="node2" href="$classv4lcap.html#a34897884f1bfc348eea63d49d09417f7" title="v4lcap::enum_control\l_default" alt="" coords="203,13,349,54"/>
-<area shape="rect" id="node6" href="$classv4lcap.html#a8d3a9ba9c833aca83f339ba1a9965bf0" title="v4lcap::enum_control\l_private_base" alt="" coords="203,78,349,119"/>
-<area shape="rect" id="node7" href="$classv4lcap.html#a5ebdba4ccfce2572c143e6a291ef17ae" title="v4lcap::enum_control\l_user_base" alt="" coords="203,143,349,185"/>
-<area shape="rect" id="node8" href="$classv4lcap.html#a240c44f236eac63c0e76c81473170ef9" title="v4lcap::show_controls" alt="" coords="200,209,352,236"/>
-<area shape="rect" id="node3" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#af0b71067889b902882e4f181b0a04aed" title="VSSS_GUI::V4LInterface\l::__make_control_list\l_default" alt="" coords="400,5,571,61"/>
-<area shape="rect" id="node4" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#af38c88f726a7ff9fab089ab9ed20c03c" title="Event triggered when a new device is selected in Device combobox. " alt="" coords="619,13,817,54"/>
-<area shape="rect" id="node5" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8fafd828eacc6d5480649fa9fddc7ee4" title="Constructor of a V4LInterface object. " alt="" coords="865,13,1036,54"/>
-</map>

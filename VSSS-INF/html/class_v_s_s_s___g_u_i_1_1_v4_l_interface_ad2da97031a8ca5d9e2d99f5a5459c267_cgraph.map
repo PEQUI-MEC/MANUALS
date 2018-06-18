@@ -1,5 +1,0 @@
-<map id="VSSS_GUI::V4LInterface::__update_cb_format_desc" name="VSSS_GUI::V4LInterface::__update_cb_format_desc">
-<area shape="rect" id="node2" href="$classv4lcap.html#a4f5a8ccdd2a75e9d2f2d4d541fdb84dd" title="Enumerate image formats. " alt="" coords="236,5,379,47"/>
-<area shape="rect" id="node4" href="$classv4lcap.html#aa5c521438e06e14625c05a02bafd35c1" title="Get the format object. " alt="" coords="242,71,373,98"/>
-<area shape="rect" id="node3" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="427,42,525,69"/>
-</map>

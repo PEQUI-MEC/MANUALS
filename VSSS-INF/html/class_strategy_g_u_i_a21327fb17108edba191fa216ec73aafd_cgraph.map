@@ -1,4 +1,0 @@
-<map id="StrategyGUI::_event_saveFormation_bt_clicked" name="StrategyGUI::_event_saveFormation_bt_clicked">
-<area shape="rect" id="node2" href="$class_strategy_g_u_i.html#a616a0f321878532cf85cfd02564758b5" title="Loads formation.txt file and appends the saved formations on the checkbox. " alt="" coords="235,13,464,39"/>
-<area shape="rect" id="node3" href="$class_strategy_g_u_i.html#a6d19f90621b2b2d6cad000b196e697d9" title="Converts a constant string to an inconstant one. " alt="" coords="512,13,711,39"/>
-</map>

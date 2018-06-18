@@ -1,6 +1,0 @@
-<map id="VSSS_GUI::V4LInterface::updateRobotLabels" name="VSSS_GUI::V4LInterface::updateRobotLabels">
-<area shape="rect" id="node2" href="$class_robots.html#ae1d0829c1089322c8fac5830f65b13a0" title="Robots::get_orientation" alt="" coords="224,5,381,32"/>
-<area shape="rect" id="node5" href="$class_robots.html#a1fca8f2f5070176faa6ba1efa2f1ff14" title="Robots::get_position" alt="" coords="231,56,374,83"/>
-<area shape="rect" id="node3" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="429,31,576,57"/>
-<area shape="rect" id="node4" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="624,31,739,57"/>
-</map>

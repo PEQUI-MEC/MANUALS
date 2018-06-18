@@ -1,8 +1,0 @@
-<map id="Vision::preloadHSV" name="Vision::preloadHSV">
-<area shape="rect" id="node2" href="$class_vision.html#a15483736197991fac542022fd9652472" title="Vision::setAmin" alt="" coords="203,5,318,32"/>
-<area shape="rect" id="node3" href="$class_vision.html#aa40b48aebdf61dfda490fbc2620d2ac3" title="Vision::setBlur" alt="" coords="207,56,314,83"/>
-<area shape="rect" id="node4" href="$class_vision.html#a1313404c61d1518f8b8cb354377ed5f1" title="Vision::setErode" alt="" coords="201,107,320,133"/>
-<area shape="rect" id="node5" href="$class_vision.html#a3c3ebea1a7c54c69f2da94b78aaf79f1" title="Vision::setHue" alt="" coords="207,157,315,184"/>
-<area shape="rect" id="node6" href="$class_vision.html#a4a07d52d53fa8626e6dd7b36fed89841" title="Vision::setSaturation" alt="" coords="189,208,332,235"/>
-<area shape="rect" id="node7" href="$class_vision.html#a43213a295e6e199c261d141118be14ad" title="Vision::setValue" alt="" coords="202,259,319,285"/>
-</map>

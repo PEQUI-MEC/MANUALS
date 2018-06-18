@@ -1,8 +1,0 @@
-<map id="Vision::searchTags" name="Vision::searchTags">
-<area shape="rect" id="node2" href="$class_vision.html#a0e43481439b4b670f5dd66caefa09494" title="invokes posProcessing() and searchTags() methods " alt="" coords="188,5,368,32"/>
-<area shape="rect" id="node3" href="$class_vision.html#a7321350b5ea7648219a4cd4f0f7ca48e" title="Vision::findTags" alt="" coords="416,5,532,32"/>
-<area shape="rect" id="node4" href="$class_vision.html#a8d7335b29584429ff5b5c24958896b08" title="Call preProcessing() method, searchTags() and pick&#45;a&#45;tag() " alt="" coords="580,5,664,32"/>
-<area shape="rect" id="node5" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="712,5,903,32"/>
-<area shape="rect" id="node6" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="951,5,1100,32"/>
-<area shape="rect" id="node7" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="1148,5,1283,32"/>
-</map>

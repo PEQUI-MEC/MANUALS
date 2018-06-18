@@ -1,4 +1,0 @@
-<map id="FlyingMessenger::stop_xbee" name="FlyingMessenger::stop_xbee">
-<area shape="rect" id="node2" href="$class_control_g_u_i.html#ac1c2a324c056d78dae8e2a0123855dc1" title="Updates the list of available communication devices on &#39;Serial&#39; frame combobox. " alt="" coords="243,5,385,47"/>
-<area shape="rect" id="node3" href="$class_control_g_u_i.html#a3ac837dec598621fcdd71fd64ff013fd" title="Constructor of a ControlGUI object. " alt="" coords="433,13,596,39"/>
-</map>

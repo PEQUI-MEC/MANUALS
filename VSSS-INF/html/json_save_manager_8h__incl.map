@@ -1,9 +1,0 @@
-<map id="src/aux/jsonSaveManager.h" name="src/aux/jsonSaveManager.h">
-<area shape="rect" id="node2" href="$debug_8hpp.html" title="Debug Namespace. " alt="" coords="888,229,1006,256"/>
-<area shape="rect" id="node7" href="$json_8hpp.html" title="../lib/json.hpp" alt="" coords="2628,80,2728,107"/>
-<area shape="rect" id="node40" href="$v4linterface_8hpp.html" title="../gui/v4linterface.hpp" alt="" coords="511,80,658,107"/>
-<area shape="rect" id="node46" href="$v4lcap_8hpp.html" title="../capture/v4lcap.hpp" alt="" coords="820,155,964,181"/>
-<area shape="rect" id="node47" href="$image_view_8hpp.html" title="imageView.hpp" alt="" coords="236,155,346,181"/>
-<area shape="rect" id="node48" href="$vision_g_u_i_8hpp.html" title="visionGUI.hpp" alt="" coords="28,155,133,181"/>
-<area shape="rect" id="node49" href="$robot_g_u_i_8hpp.html" title="Robot Configuration GUI. " alt="" coords="370,155,470,181"/>
-</map>

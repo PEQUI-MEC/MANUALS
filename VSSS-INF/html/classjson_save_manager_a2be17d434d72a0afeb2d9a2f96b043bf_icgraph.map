@@ -1,7 +1,0 @@
-<map id="jsonSaveManager::write_configs_to_file" name="jsonSaveManager::write_configs_to_file">
-<area shape="rect" id="node2" href="$classjson_save_manager.html#a3e628f770c39e0111b46dac21d966171" title="Saves all volatile data set in the interface to a given .json file. " alt="" coords="216,93,379,120"/>
-<area shape="rect" id="node3" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a018c35ae221964d08f1abb40ba01abcf" title="Event triggered when &#39;Quick Save&#39; button is clicked. " alt="" coords="430,5,601,61"/>
-<area shape="rect" id="node5" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a86cbf672edfd408bcac975be8dbacffd" title="Event triggered when &#39;Save&#39; button is clicked. " alt="" coords="427,86,604,127"/>
-<area shape="rect" id="node6" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8c3f91048adebeb0b5aa9838053cdcfe" title="Event triggered when start button is clicked. Starts/finishes video recording. " alt="" coords="430,152,601,208"/>
-<area shape="rect" id="node4" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8fafd828eacc6d5480649fa9fddc7ee4" title="Constructor of a V4LInterface object. " alt="" coords="652,86,823,127"/>
-</map>

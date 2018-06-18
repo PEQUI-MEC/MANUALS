@@ -1,9 +1,0 @@
-<map id="v4lcap::dequeue_buff" name="v4lcap::dequeue_buff">
-<area shape="rect" id="node2" href="$classv4lcap.html#a8968da9e151ee6048cb179e62d3b088f" title="v4lcap::dequeue_buff" alt="" coords="200,5,347,32"/>
-<area shape="rect" id="node3" href="$classv4lcap.html#a2974ed334916901ebfd9a59aed2428e8" title="v4lcap::grab_raw" alt="" coords="213,56,334,83"/>
-<area shape="rect" id="node4" href="$classv4lcap.html#a4ef7f2a17a32f5b89bf9ddce123a3b52" title="v4lcap::grab_rgb" alt="" coords="214,107,333,133"/>
-<area shape="rect" id="node5" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="395,77,585,104"/>
-<area shape="rect" id="node8" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a4253d7fbc31e63ce398d47317baaf3a5" title="VSSS_GUI::V4LInterface\l::grab_rgb" alt="" coords="405,129,575,170"/>
-<area shape="rect" id="node6" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="633,77,783,104"/>
-<area shape="rect" id="node7" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="831,77,965,104"/>
-</map>

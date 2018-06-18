@@ -1,4 +1,0 @@
-<map id="ControlGUI::isFloat" name="ControlGUI::isFloat">
-<area shape="rect" id="node2" href="$class_control_g_u_i.html#a0838b5d3b0d6651b7a1a58928bc83327" title="Gets the speed text labels from &#39;Serial&#39; frame and sends them as a command to the selected robot..." alt="" coords="188,5,348,32"/>
-<area shape="rect" id="node3" href="$class_control_g_u_i.html#a3ac837dec598621fcdd71fd64ff013fd" title="Constructor of a ControlGUI object. " alt="" coords="396,5,559,32"/>
-</map>

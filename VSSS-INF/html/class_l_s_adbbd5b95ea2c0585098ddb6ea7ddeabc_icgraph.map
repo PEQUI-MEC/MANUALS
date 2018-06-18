@@ -1,8 +1,0 @@
-<map id="LS::fillMatrixG" name="LS::fillMatrixG">
-<area shape="rect" id="node2" href="$class_l_s.html#a1657c109024e802aee886d293778079f" title="LS::interpolate" alt="" coords="159,5,265,32"/>
-<area shape="rect" id="node3" href="$class_l_s.html#a595c287e25fe0d0d51e7f06a80f8f991" title="LS::estimate" alt="" coords="313,5,409,32"/>
-<area shape="rect" id="node4" href="$class_strategy.html#a7119e796ed0218f4e44418fea1efdf49" title="Strategy::set_Ball" alt="" coords="457,5,584,32"/>
-<area shape="rect" id="node5" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="632,5,823,32"/>
-<area shape="rect" id="node6" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="871,5,1020,32"/>
-<area shape="rect" id="node7" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="1068,5,1203,32"/>
-</map>

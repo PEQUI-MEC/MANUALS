@@ -1,8 +1,0 @@
-<map id="RobotGUI::create_functions_frame" name="RobotGUI::create_functions_frame">
-<area shape="rect" id="node2" href="$class_robot_g_u_i.html#a772f8b103a92bc866827c5553451120e" title="RobotGUI::event_robots\l_function_done_bt_signal\l_clicked" alt="" coords="239,5,408,61"/>
-<area shape="rect" id="node6" href="$class_robot_g_u_i.html#a7b15515d7ea036f2b59d62bc6cdc476b" title="RobotGUI::event_robots\l_function_edit_bt_signal\l_clicked" alt="" coords="241,85,405,141"/>
-<area shape="rect" id="node7" href="$class_robots.html#ac5cdd16502bd325581fb2d732169a326" title="Robots::get_role" alt="" coords="456,119,575,145"/>
-<area shape="rect" id="node3" href="$class_robots.html#a3694b6380b113b7c38a252fd3bbfcca3" title="Robots::set_role" alt="" coords="456,44,575,71"/>
-<area shape="rect" id="node4" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="623,93,769,120"/>
-<area shape="rect" id="node5" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="817,93,932,120"/>
-</map>

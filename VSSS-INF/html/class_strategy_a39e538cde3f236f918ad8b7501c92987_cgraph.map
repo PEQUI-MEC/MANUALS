@@ -1,6 +1,0 @@
-<map id="Strategy::is_near" name="Strategy::is_near">
-<area shape="rect" id="node2" href="$class_strategy.html#aacce05caed71553c4efd2d28c9c3aa39" title="Strategy::distance" alt="" coords="182,5,310,32"/>
-<area shape="rect" id="node3" href="$class_robots.html#a1fca8f2f5070176faa6ba1efa2f1ff14" title="Robots::get_position" alt="" coords="175,56,317,83"/>
-<area shape="rect" id="node4" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="365,56,512,83"/>
-<area shape="rect" id="node5" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="560,56,675,83"/>
-</map>

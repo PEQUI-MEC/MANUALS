@@ -1,7 +1,0 @@
-<map id="v4lcap::close_device" name="v4lcap::close_device">
-<area shape="rect" id="node2" href="$classv4lcap.html#ae15aa5107e993df45eb358a842d97e55" title="Query stream to terminate. " alt="" coords="207,5,330,32"/>
-<area shape="rect" id="node4" href="$classv4lcap.html#aafab5fd381c1d5858cd87f42560a40ab" title="Free all requested buffers. " alt="" coords="197,56,340,83"/>
-<area shape="rect" id="node3" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="439,5,538,32"/>
-<area shape="rect" id="node5" href="$classv4lcap.html#a874905b9c6c785294fa7487a844cb841" title="v4lcap::request_buffers_mmap" alt="" coords="388,56,589,83"/>
-<area shape="rect" id="node6" href="$classv4lcap.html#adfe2c7d6382e325a9f4e1ad699c01fc5" title="Request buffers allocation from SO. " alt="" coords="637,56,796,83"/>
-</map>

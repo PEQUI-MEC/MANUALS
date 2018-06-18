@@ -1,7 +1,0 @@
-<map id="ControlGUI" name="ControlGUI">
-<area shape="rect" id="node20" href="$class_flying_messenger.html" title="FlyingMessenger" alt="" coords="1081,530,1203,557"/>
-<area shape="rect" id="node28" href="$structack__count.html" title="ack_count" alt="" coords="170,518,253,545"/>
-<area shape="rect" id="node5" href="$class_test_frame.html" title="TestFrame" alt="" coords="1099,263,1185,290"/>
-<area shape="rect" id="node21" href="$class_serial_com.html" title="SerialCom" alt="" coords="831,526,913,553"/>
-<area shape="rect" id="node25" href="$structrobot__xbee.html" title="robot_xbee" alt="" coords="336,523,423,550"/>
-</map>

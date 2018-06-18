@@ -1,5 +1,0 @@
-<map id="Vision::savePicture" name="Vision::savePicture">
-<area shape="rect" id="node2" href="$class_vision_g_u_i.html#a0f0a52b29ccd843b3e5a200d2618cd6a" title="Saves the actual frame image in /media/pictures when &#39;save&#39; button is clicked If &#39;Picture name&#39; textf..." alt="" coords="188,5,324,47"/>
-<area shape="rect" id="node3" href="$class_vision_g_u_i.html#a9b0cac7f32fc402ce5aaff0325e39b77" title="Creates HSV calibration frame and its inner elements. Ataches interface signals (button pressing/clic..." alt="" coords="372,5,512,47"/>
-<area shape="rect" id="node4" href="$class_vision_g_u_i.html#ae6e821e61b7cf4e0aada2044a2bd2aca" title="VisionGUI::VisionGUI" alt="" coords="560,13,711,39"/>
-</map>

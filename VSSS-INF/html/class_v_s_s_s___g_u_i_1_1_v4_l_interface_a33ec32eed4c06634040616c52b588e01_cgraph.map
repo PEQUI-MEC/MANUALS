@@ -1,6 +1,0 @@
-<map id="VSSS_GUI::V4LInterface::__update_cb_input" name="VSSS_GUI::V4LInterface::__update_cb_input">
-<area shape="rect" id="node2" href="$classv4lcap.html#a77a9eda7d80dcf417afd97e6417d900b" title="Enumerate video inputs. " alt="" coords="403,5,542,47"/>
-<area shape="rect" id="node4" href="$classv4lcap.html#a11e01d9043a7cb3537a772cc3a5bacb5" title="Get the input object. " alt="" coords="224,71,345,98"/>
-<area shape="rect" id="node3" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="600,71,699,98"/>
-<area shape="rect" id="node5" href="$classv4lcap.html#ad6cf8417903c40e86a087a236cd39337" title="Get the input index object. " alt="" coords="393,122,552,149"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="RobotGUI::event_robots_id_done_bt_signal_clicked" name="RobotGUI::event_robots_id_done_bt_signal_clicked">
-<area shape="rect" id="node2" href="$class_robots.html#a306bb88b37b41cff35018d51d8228d65" title="Robots::get_ID" alt="" coords="235,5,345,32"/>
-<area shape="rect" id="node5" href="$class_robots.html#aea3f1278d0503cd81adc9ceea0a7d1df" title="SETTERS. " alt="" coords="235,56,345,83"/>
-<area shape="rect" id="node3" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="393,31,540,57"/>
-<area shape="rect" id="node4" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="588,31,703,57"/>
-</map>

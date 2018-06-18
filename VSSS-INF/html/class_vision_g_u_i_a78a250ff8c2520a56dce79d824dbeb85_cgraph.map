@@ -1,5 +1,0 @@
-<map id="VisionGUI::bt_record_video_pressed" name="VisionGUI::bt_record_video_pressed">
-<area shape="rect" id="node2" href="$class_vision.html#a5c7366071fde8a1b916be0721adaa275" title="Vision::finishVideo" alt="" coords="208,5,339,32"/>
-<area shape="rect" id="node3" href="$class_vision.html#a7990c9cb8684e1d1c92a5b6aa99abe6f" title="Vision::isRecording" alt="" coords="206,56,341,83"/>
-<area shape="rect" id="node4" href="$class_vision.html#ae3ec43e811508f326910f99c416332db" title="Vision::startNewVideo" alt="" coords="197,107,349,133"/>
-</map>

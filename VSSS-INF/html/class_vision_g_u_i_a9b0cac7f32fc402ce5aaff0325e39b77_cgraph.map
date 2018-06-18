@@ -1,8 +1,0 @@
-<map id="VisionGUI::__create_frm_capture" name="VisionGUI::__create_frm_capture">
-<area shape="rect" id="node2" href="$class_vision_g_u_i.html#a78a250ff8c2520a56dce79d824dbeb85" title="Starts video recording when &#39;REC&#39; button is pressed, changing its label to &#39;Stop&#39;, and vice&#45;versa. If &#39;Video name&#39; textfield is empty, a numeric ID value will be assigned. " alt="" coords="193,58,337,99"/>
-<area shape="rect" id="node6" href="$class_vision_g_u_i.html#a0f0a52b29ccd843b3e5a200d2618cd6a" title="Saves the actual frame image in /media/pictures when &#39;save&#39; button is clicked If &#39;Picture name&#39; textf..." alt="" coords="197,133,333,174"/>
-<area shape="rect" id="node3" href="$class_vision.html#a7990c9cb8684e1d1c92a5b6aa99abe6f" title="Vision::isRecording" alt="" coords="394,5,529,32"/>
-<area shape="rect" id="node4" href="$class_vision.html#a5c7366071fde8a1b916be0721adaa275" title="Vision::finishVideo" alt="" coords="396,56,527,83"/>
-<area shape="rect" id="node5" href="$class_vision.html#ae3ec43e811508f326910f99c416332db" title="Vision::startNewVideo" alt="" coords="385,107,537,133"/>
-<area shape="rect" id="node7" href="$class_vision.html#a324ad2f355fa414ee484e8ce9b247ffc" title="Vision::savePicture" alt="" coords="394,157,529,184"/>
-</map>

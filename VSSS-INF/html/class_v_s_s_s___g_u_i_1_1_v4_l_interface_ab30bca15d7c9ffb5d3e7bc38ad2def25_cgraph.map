@@ -1,5 +1,0 @@
-<map id="VSSS_GUI::V4LInterface::__update_cb_frame_size" name="VSSS_GUI::V4LInterface::__update_cb_frame_size">
-<area shape="rect" id="node2" href="$classv4lcap.html#a6b806d7b2bfce38081f71fe01f380f6f" title="Enumerate frame sizes. " alt="" coords="228,5,399,32"/>
-<area shape="rect" id="node4" href="$classv4lcap.html#aa5c521438e06e14625c05a02bafd35c1" title="Get the format object. " alt="" coords="248,56,379,83"/>
-<area shape="rect" id="node3" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="447,31,545,57"/>
-</map>

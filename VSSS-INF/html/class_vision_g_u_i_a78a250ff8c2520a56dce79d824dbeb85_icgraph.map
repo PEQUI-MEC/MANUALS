@@ -1,4 +1,0 @@
-<map id="VisionGUI::bt_record_video_pressed" name="VisionGUI::bt_record_video_pressed">
-<area shape="rect" id="node2" href="$class_vision_g_u_i.html#a9b0cac7f32fc402ce5aaff0325e39b77" title="Creates HSV calibration frame and its inner elements. Ataches interface signals (button pressing/clic..." alt="" coords="197,5,337,47"/>
-<area shape="rect" id="node3" href="$class_vision_g_u_i.html#ae6e821e61b7cf4e0aada2044a2bd2aca" title="VisionGUI::VisionGUI" alt="" coords="385,13,536,39"/>
-</map>

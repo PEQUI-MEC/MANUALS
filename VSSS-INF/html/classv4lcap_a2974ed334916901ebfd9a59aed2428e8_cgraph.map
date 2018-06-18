@@ -1,5 +1,0 @@
-<map id="v4lcap::grab_raw" name="v4lcap::grab_raw">
-<area shape="rect" id="node2" href="$classv4lcap.html#a73678c131c1ac6c555be3ea125be08da" title="Dequeue buffers allocated. " alt="" coords="175,5,321,32"/>
-<area shape="rect" id="node4" href="$classv4lcap.html#a61dcacb5bb57a9f8c72d6942f46e9ddc" title="Enqueue requested buffers and set capture params. " alt="" coords="175,56,321,83"/>
-<area shape="rect" id="node3" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="369,31,468,57"/>
-</map>

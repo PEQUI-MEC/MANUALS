@@ -1,5 +1,0 @@
-<map id="Vision::switchMainWithAdv" name="Vision::switchMainWithAdv">
-<area shape="rect" id="node2" href="$class_vision_g_u_i.html#a5e1378fbaf15105bd898f6fd9e2d3d0e" title="Event triggered when &#39;Main &lt;&#45;&gt; Adv&#39; button is pressed. " alt="" coords="236,5,420,47"/>
-<area shape="rect" id="node3" href="$class_vision_g_u_i.html#a5022537a86f97e3eb1e037044301a0f7" title="Creates HSV calibration frame and its inner elements. Ataches interface signals (button pressing/clic..." alt="" coords="468,5,608,47"/>
-<area shape="rect" id="node4" href="$class_vision_g_u_i.html#ae6e821e61b7cf4e0aada2044a2bd2aca" title="VisionGUI::VisionGUI" alt="" coords="656,13,807,39"/>
-</map>

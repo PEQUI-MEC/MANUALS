@@ -1,6 +1,0 @@
-<map id="Strategy::Strategy" name="Strategy::Strategy">
-<area shape="rect" id="node2" href="$class_l_s.html#a8f84bed13c9bf083beac8e5530d8832d" title="LS::init" alt="" coords="181,56,244,83"/>
-<area shape="rect" id="node3" href="$class_l_s.html#a29b451ca9a328e9e5c73d32886441439" title="LS::initializeVector" alt="" coords="292,5,423,32"/>
-<area shape="rect" id="node4" href="$class_l_s.html#a97eedf6376636d59fbe894909ab97ca0" title="LS::intializeMatrix" alt="" coords="294,56,421,83"/>
-<area shape="rect" id="node5" href="$class_l_s.html#a2825429a29497b5dbad69a8b77f42d00" title="LS::zeroMatrix" alt="" coords="304,107,411,133"/>
-</map>

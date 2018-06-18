@@ -1,5 +1,0 @@
-<map id="SerialW::sendCmdToRobots" name="SerialW::sendCmdToRobots">
-<area shape="rect" id="node2" href="$class_serial_w.html#a482e8608c6048b44b0772fecf8a922d9" title="SerialW::sendAPISerial" alt="" coords="243,31,401,57"/>
-<area shape="rect" id="node3" href="$class_serial_w.html#a757c428d5a375862430ddef74512a043" title="SerialW::generateChecksum" alt="" coords="449,5,639,32"/>
-<area shape="rect" id="node4" href="$serial_w_8cpp.html#a813a1704f4f83398a435c67e028b0eb3" title="stringToInt" alt="" coords="502,56,586,83"/>
-</map>

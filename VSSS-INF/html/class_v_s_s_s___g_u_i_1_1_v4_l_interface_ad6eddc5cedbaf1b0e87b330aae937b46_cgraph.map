@@ -1,7 +1,0 @@
-<map id="VSSS_GUI::V4LInterface::__set_control" name="VSSS_GUI::V4LInterface::__set_control">
-<area shape="rect" id="node2" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#afbb5daccfdce20180578025c108ef65b" title="VSSS_GUI::V4LInterface\l::__update_control_widgets" alt="" coords="224,56,405,97"/>
-<area shape="rect" id="node6" href="$classv4lcap.html#a863a15d2d66cc0b7367dcc9cba64e0bd" title="Set the control object. " alt="" coords="249,122,381,149"/>
-<area shape="rect" id="node3" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a677d3f2d0246528bafd19cf2d3dccf98" title="VSSS_GUI::V4LInterface\l::__block_control_signals" alt="" coords="453,5,624,47"/>
-<area shape="rect" id="node4" href="$classv4lcap.html#affd6d918400a56e165d7a3e4fab8bdae" title="Get the control object. " alt="" coords="473,71,605,98"/>
-<area shape="rect" id="node5" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="672,97,771,123"/>
-</map>

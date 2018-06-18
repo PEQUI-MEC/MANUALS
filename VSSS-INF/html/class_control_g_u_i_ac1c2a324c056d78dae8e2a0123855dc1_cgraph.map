@@ -1,3 +1,0 @@
-<map id="ControlGUI::_update_cb_serial" name="ControlGUI::_update_cb_serial">
-<area shape="rect" id="node2" href="$class_flying_messenger.html#ab9ed5a0b43196b5771a469c03f213856" title="Stops xbee connection and purge the instance of xbee (instance of SerialCom class). " alt="" coords="196,13,385,39"/>
-</map>

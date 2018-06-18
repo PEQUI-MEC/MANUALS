@@ -1,8 +1,0 @@
-<map id="RobotGUI::create_speeds_frame" name="RobotGUI::create_speeds_frame">
-<area shape="rect" id="node2" href="$class_robot_g_u_i.html#a7acb7bdc8533f946f2cbea74966147cc" title="RobotGUI::event_robots\l_speed_done_bt_signal\l_clicked" alt="" coords="228,5,392,61"/>
-<area shape="rect" id="node6" href="$class_robot_g_u_i.html#ad3e49c942794d65e38600e7d48681fa1" title="RobotGUI::event_robots\l_speed_edit_bt_signal\l_pressed" alt="" coords="228,85,392,141"/>
-<area shape="rect" id="node7" href="$class_robots.html#a4778a7c755c5cca4b5d1e2c3b46fb314" title="Robots::get_default\l_role_velocity" alt="" coords="440,118,576,159"/>
-<area shape="rect" id="node3" href="$class_robots.html#ae167e64868239ece6c9f5b35d6f6ba43" title="Robots::set_default\l_role_velocity" alt="" coords="440,33,576,74"/>
-<area shape="rect" id="node4" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="624,93,771,120"/>
-<area shape="rect" id="node5" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="819,93,933,120"/>
-</map>

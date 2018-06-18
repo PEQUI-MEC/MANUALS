@@ -1,8 +1,0 @@
-<map id="VisionGUI::__event_bt_HSV_calib_pressed" name="VisionGUI::__event_bt_HSV_calib_pressed">
-<area shape="rect" id="node2" href="$class_vision_g_u_i.html#a5022537a86f97e3eb1e037044301a0f7" title="Creates HSV calibration frame and its inner elements. Ataches interface signals (button pressing/clic..." alt="" coords="227,5,367,47"/>
-<area shape="rect" id="node4" href="$class_vision_g_u_i.html#a26659931ea77f5b975fe1d0ce101c74c" title="VisionGUI::selectFrame" alt="" coords="216,71,379,98"/>
-<area shape="rect" id="node3" href="$class_vision_g_u_i.html#ae6e821e61b7cf4e0aada2044a2bd2aca" title="VisionGUI::VisionGUI" alt="" coords="447,13,597,39"/>
-<area shape="rect" id="node5" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="427,71,617,98"/>
-<area shape="rect" id="node6" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="665,71,815,98"/>
-<area shape="rect" id="node7" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="863,71,997,98"/>
-</map>
