@@ -1,0 +1,7 @@
+<map id="Robots::set_orientation" name="Robots::set_orientation">
+<area shape="rect" id="node2" href="$class_vision.html#ada61d6f3bfc003a8e0e49bb5ee3516a3" title="uses inSphere() method " alt="" coords="211,5,340,32"/>
+<area shape="rect" id="node3" href="$class_vision.html#a8d7335b29584429ff5b5c24958896b08" title="Call preProcessing() method, searchTags() and pick&#45;a&#45;tag() " alt="" coords="388,5,472,32"/>
+<area shape="rect" id="node4" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="520,5,711,32"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="759,5,908,32"/>
+<area shape="rect" id="node6" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="956,5,1091,32"/>
+</map>

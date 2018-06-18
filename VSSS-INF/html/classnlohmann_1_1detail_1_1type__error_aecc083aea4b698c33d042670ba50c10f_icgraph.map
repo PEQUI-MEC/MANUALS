@@ -1,0 +1,31 @@
+<map id="nlohmann::detail::type_error::create" name="nlohmann::detail::type_error::create">
+<area shape="rect" id="node2" href="$classnlohmann_1_1basic__json.html#a73ae333487310e3302135189ce8ff5d8" title="access specified array element with bounds checking " alt="" coords="212,5,379,32"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1basic__json.html#ab5dfd9a2b2663b219641cb7fe59b6da2" title="create a container (array or object) from an initializer list " alt="" coords="221,253,369,294"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1detail_1_1serializer.html#ac1f8d1165b44149bd8be397dce68ea05" title="dump escaped string " alt="" coords="207,318,384,359"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1basic__json.html#ab515108f8219ac33256a48066bbc7354" title="add an object to an object if key does not exist " alt="" coords="221,383,369,425"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1basic__json.html#ade45be7a74af7aa2d447e555d48e39ea" title="add an object to an array " alt="" coords="221,449,369,490"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1basic__json.html#a068a16e76be178e83da6a192916923ed" title="remove element given an iterator " alt="" coords="221,57,369,98"/>
+<area shape="rect" id="node9" href="$namespacenlohmann_1_1detail.html#a58117f225f43d03e3a0a4a6f3d77c9d9" title="nlohmann::detail::from_json" alt="" coords="204,515,387,541"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1json__pointer.html#a7f6f4c2f21a183a6431bf1c5d23bb3c8" title="create and return a reference to the pointed to value " alt="" coords="217,617,373,658"/>
+<area shape="rect" id="node12" href="$classnlohmann_1_1json__pointer.html#a920065221e3c81676c3211c100d024a7" title="nlohmann::json_pointer\l::unflatten" alt="" coords="448,595,604,637"/>
+<area shape="rect" id="node14" href="$namespacenlohmann_1_1detail.html#a85955b9c6dd31846e4b8e891f78614b6" title="nlohmann::detail::get\l_arithmetic_value" alt="" coords="224,682,367,723"/>
+<area shape="rect" id="node16" href="$classnlohmann_1_1basic__json.html#acb296a56f69c396e2c2a898f2043c834" title="get a boolean (explicit) " alt="" coords="221,747,369,789"/>
+<area shape="rect" id="node17" href="$classnlohmann_1_1basic__json.html#a040a5feb1eb48da9134924217b25bcf6" title="helper function to implement get_ref() " alt="" coords="221,813,369,854"/>
+<area shape="rect" id="node18" href="$classnlohmann_1_1basic__json.html#a0136728f5db69d4051c77b94307abd6c" title="inserts element " alt="" coords="221,122,369,163"/>
+<area shape="rect" id="node20" href="$classnlohmann_1_1basic__json.html#ac871e3b03fb2eeca9a8de4db2bea760f" title="access specified array element " alt="" coords="221,878,369,919"/>
+<area shape="rect" id="node21" href="$classnlohmann_1_1basic__json.html#ac8e523ddc8c2dd7e5d2daf0d49a9c0d7" title="add an object to an array " alt="" coords="221,187,369,229"/>
+<area shape="rect" id="node22" href="$classnlohmann_1_1basic__json.html#a65b0a24e1361a030ad0a661de22f6c8e" title="exchanges the values " alt="" coords="221,943,369,985"/>
+<area shape="rect" id="node23" href="$classnlohmann_1_1basic__json.html#a1cfa9ae5e7c2434cab4cfe69bffffe11" title="updates a JSON object from another object, overwriting existing keys " alt="" coords="221,1009,369,1050"/>
+<area shape="rect" id="node24" href="$classnlohmann_1_1basic__json.html#a404017aa52714a0a4bc79d5af7e4ad2b" title="access specified object element with default value " alt="" coords="221,1074,369,1115"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1basic__json.html#ad87518a27b13f886b836bb93213e6515" title="applies a JSON patch " alt="" coords="452,90,600,131"/>
+<area shape="rect" id="node10" href="$structnlohmann_1_1detail_1_1from__json__fn.html#a2d6108c9d0f54e97134203984ed8d3a3" title="nlohmann::detail::from\l_json_fn::call" alt="" coords="451,507,601,549"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1basic__json.html#abb58a0ce5996bd3bc17a3dd954217af6" title="unflatten a previously flattened JSON value " alt="" coords="673,595,821,637"/>
+<area shape="rect" id="node15" href="$namespacenlohmann_1_1detail.html#a7cb5dd7d46a60e65f9a8e0873b3f7dd8" title="nlohmann::detail::from_json" alt="" coords="435,689,617,716"/>
+<area shape="rect" id="node19" href="$classnlohmann_1_1basic__json.html#a543bd5f7490de54c875b2c0912dc9a49" title="creates a diff as a JSON patch " alt="" coords="452,171,600,213"/>
+<area shape="rect" id="node25" href="$classjson_save_manager.html#a437ba67544a0115bf0242c85b92018b3" title="Save camera configurations from interface to our JSON object. " alt="" coords="445,1074,607,1115"/>
+<area shape="rect" id="node26" href="$classjson_save_manager.html#a3e628f770c39e0111b46dac21d966171" title="Saves all volatile data set in the interface to a given .json file. " alt="" coords="665,1081,828,1108"/>
+<area shape="rect" id="node27" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a018c35ae221964d08f1abb40ba01abcf" title="Event triggered when &#39;Quick Save&#39; button is clicked. " alt="" coords="879,995,1050,1051"/>
+<area shape="rect" id="node29" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a86cbf672edfd408bcac975be8dbacffd" title="Event triggered when &#39;Save&#39; button is clicked. " alt="" coords="876,1074,1053,1115"/>
+<area shape="rect" id="node30" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8c3f91048adebeb0b5aa9838053cdcfe" title="Event triggered when start button is clicked. Starts/finishes video recording. " alt="" coords="879,1139,1050,1195"/>
+<area shape="rect" id="node28" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8fafd828eacc6d5480649fa9fddc7ee4" title="Constructor of a V4LInterface object. " alt="" coords="1101,1074,1272,1115"/>
+</map>

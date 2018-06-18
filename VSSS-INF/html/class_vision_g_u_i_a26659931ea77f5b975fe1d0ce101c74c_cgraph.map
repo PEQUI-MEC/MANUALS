@@ -1,0 +1,12 @@
+<map id="VisionGUI::selectFrame" name="VisionGUI::selectFrame">
+<area shape="rect" id="node2" href="$class_vision_g_u_i.html#ad476738b0d45d8decb5d5789c7cbc611" title="Event triggered when HSV Calib button is pressed. " alt="" coords="216,78,379,119"/>
+<area shape="rect" id="node3" href="$class_vision_g_u_i.html#a5de4edcfe2bd349f940dc605a52bc70b" title="Event triggered when HSV Calib right button is pressed. " alt="" coords="227,143,368,199"/>
+<area shape="rect" id="node11" href="$class_vision_g_u_i.html#a51c0888c14eb2b773e18d739df076e03" title="Turns &#39;isSplitView&#39; flag active when triggered when Split mode is selected. " alt="" coords="218,222,377,263"/>
+<area shape="rect" id="node4" href="$class_vision.html#a563041d47d11e0912227c3ce87dcc22e" title="Vision::getAmin" alt="" coords="441,5,555,32"/>
+<area shape="rect" id="node5" href="$class_vision.html#ad15cc7e3c696c7f52e30e7974337c74f" title="Vision::getBlur" alt="" coords="445,56,551,83"/>
+<area shape="rect" id="node6" href="$class_vision.html#a0d07157e3d9bb577940f03365c8f57e8" title="Vision::getDilate" alt="" coords="439,107,557,133"/>
+<area shape="rect" id="node7" href="$class_vision.html#a6cc4617b0af832b4cb94e00cc845c317" title="Vision::getErode" alt="" coords="439,157,557,184"/>
+<area shape="rect" id="node8" href="$class_vision.html#adc6eb838fa27551430516e80a547a6bd" title="Vision::getHue" alt="" coords="444,208,552,235"/>
+<area shape="rect" id="node9" href="$class_vision.html#a023ff4cc4ee3a88125fd2a3c60d1b529" title="Vision::getSaturation" alt="" coords="427,259,569,285"/>
+<area shape="rect" id="node10" href="$class_vision.html#a04d1bcce0fd15a5d66752723f21c0dea" title="Vision::getValue" alt="" coords="439,309,557,336"/>
+</map>

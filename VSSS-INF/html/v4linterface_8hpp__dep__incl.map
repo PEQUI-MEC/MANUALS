@@ -1,0 +1,9 @@
+<map id="src/gui/v4linterface.hpp" name="src/gui/v4linterface.hpp">
+<area shape="rect" id="node2" href="$json_save_manager_8h.html" title="src/aux/jsonSaveManager.h" alt="" coords="193,80,377,107"/>
+<area shape="rect" id="node4" href="$v4linterface_events_8cpp.html" title="src/gui/v4linterfaceEvents.cpp" alt="" coords="228,155,427,181"/>
+<area shape="rect" id="node5" href="$camcap_8hpp.html" title="src/camcap.hpp" alt="" coords="451,80,566,107"/>
+<area shape="rect" id="node8" href="$v4linterface_8cpp.html" title="src/gui/v4linterface.cpp" alt="" coords="590,80,747,107"/>
+<area shape="rect" id="node3" href="$json_save_manager_8cpp.html" title="src/aux/jsonSaveManager.cpp" alt="" coords="5,155,204,181"/>
+<area shape="rect" id="node6" href="$camcap_8cpp.html" title="src/camcap.cpp" alt="" coords="451,155,566,181"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="src/main.cpp" alt="" coords="591,155,688,181"/>
+</map>

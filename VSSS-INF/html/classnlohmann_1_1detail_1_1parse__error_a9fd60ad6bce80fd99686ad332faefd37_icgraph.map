@@ -1,0 +1,22 @@
+<map id="nlohmann::detail::parse_error::create" name="nlohmann::detail::parse_error::create">
+<area shape="rect" id="node2" href="$classnlohmann_1_1detail_1_1binary__reader.html#ad90f9136cf04de9971d3909952392f56" title="throw if end of input is not reached " alt="" coords="230,5,390,47"/>
+<area shape="rect" id="node3" href="$classnlohmann_1_1json__pointer.html#a7f6f4c2f21a183a6431bf1c5d23bb3c8" title="create and return a reference to the pointed to value " alt="" coords="232,71,388,112"/>
+<area shape="rect" id="node6" href="$classnlohmann_1_1detail_1_1binary__reader.html#ac626ec37d1724d9d36d918c6361f8e57" title="reads a CBOR string " alt="" coords="229,136,391,177"/>
+<area shape="rect" id="node7" href="$classnlohmann_1_1json__pointer.html#a2ca435ff12d67e6f485960b66249244c" title="nlohmann::json_pointer\l::get_checked" alt="" coords="232,201,388,243"/>
+<area shape="rect" id="node10" href="$classnlohmann_1_1detail_1_1binary__reader.html#aca08d17b5a8230eb6738628934b3b5a5" title="reads a MessagePack string " alt="" coords="215,267,405,308"/>
+<area shape="rect" id="node11" href="$classnlohmann_1_1detail_1_1binary__reader.html#a480aae640bb92a7432c0f758081a2cc7" title="determine the type and size for a container " alt="" coords="211,332,409,373"/>
+<area shape="rect" id="node12" href="$classnlohmann_1_1detail_1_1binary__reader.html#ae4097317b979174cc366b076bb879814" title="reads a UBJSON string " alt="" coords="223,397,397,439"/>
+<area shape="rect" id="node13" href="$classnlohmann_1_1detail_1_1binary__reader.html#ad8507c0dd14bbddc76c7937c0305a15a" title="nlohmann::detail::binary\l_reader::get_ubjson_value" alt="" coords="223,463,397,504"/>
+<area shape="rect" id="node14" href="$classnlohmann_1_1json__pointer.html#a585d16983947717ed470526aca6f561b" title="return a reference to the pointed to value " alt="" coords="232,528,388,569"/>
+<area shape="rect" id="node16" href="$classnlohmann_1_1detail_1_1binary__reader.html#a0d919ee892fbbeedb27ff95c4e4010e1" title="nlohmann::detail::binary\l_reader::parse_cbor_internal" alt="" coords="217,593,403,635"/>
+<area shape="rect" id="node17" href="$classnlohmann_1_1detail_1_1binary__reader.html#ac6dc6270ddddd0aac65fe6cab53d7cc2" title="nlohmann::detail::binary\l_reader::parse_msgpack\l_internal" alt="" coords="227,658,393,714"/>
+<area shape="rect" id="node18" href="$classnlohmann_1_1basic__json.html#ad87518a27b13f886b836bb93213e6515" title="applies a JSON patch " alt="" coords="236,737,384,779"/>
+<area shape="rect" id="node19" href="$classnlohmann_1_1json__pointer.html#ae01c32c6a071c2e5198d5dfcce290e50" title="split the string input to reference tokens " alt="" coords="232,803,388,844"/>
+<area shape="rect" id="node20" href="$classnlohmann_1_1detail_1_1parser.html#a977c6521369fef5a78fbb53e9ae60fb9" title="nlohmann::detail::parser\l::throw_exception" alt="" coords="229,868,391,909"/>
+<area shape="rect" id="node21" href="$classnlohmann_1_1detail_1_1binary__reader.html#a6a7195590afdf7017edbdc06c1c2e465" title="nlohmann::detail::binary\l_reader::unexpect_eof" alt="" coords="230,933,390,975"/>
+<area shape="rect" id="node4" href="$classnlohmann_1_1json__pointer.html#a920065221e3c81676c3211c100d024a7" title="nlohmann::json_pointer\l::unflatten" alt="" coords="463,71,619,112"/>
+<area shape="rect" id="node5" href="$classnlohmann_1_1basic__json.html#abb58a0ce5996bd3bc17a3dd954217af6" title="unflatten a previously flattened JSON value " alt="" coords="672,71,820,112"/>
+<area shape="rect" id="node8" href="$classnlohmann_1_1basic__json.html#a8ab61397c10f18b305520da7073b2b45" title="access specified element via JSON Pointer " alt="" coords="457,179,624,206"/>
+<area shape="rect" id="node9" href="$classnlohmann_1_1basic__json.html#adeaf9df62baf48a057876ef558f5a1b5" title="access specified object element via JSON Pointer with default value " alt="" coords="467,231,615,272"/>
+<area shape="rect" id="node15" href="$classnlohmann_1_1basic__json.html#ac6946dffeb3be5aa173645f0467a44b3" title="access specified element via JSON Pointer " alt="" coords="467,528,615,569"/>
+</map>

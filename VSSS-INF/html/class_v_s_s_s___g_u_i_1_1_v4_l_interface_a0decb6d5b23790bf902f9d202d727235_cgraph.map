@@ -1,0 +1,5 @@
+<map id="VSSS_GUI::V4LInterface::__update_cb_standard" name="VSSS_GUI::V4LInterface::__update_cb_standard">
+<area shape="rect" id="node2" href="$classv4lcap.html#a236476c3f736c1870a63ed79f4c1d5a9" title="Enumerate supported video. " alt="" coords="415,5,553,47"/>
+<area shape="rect" id="node4" href="$classv4lcap.html#ad3ae859cc6d6d99146619ba550514aab" title="Get the standard object. " alt="" coords="224,63,367,90"/>
+<area shape="rect" id="node3" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="601,42,700,69"/>
+</map>

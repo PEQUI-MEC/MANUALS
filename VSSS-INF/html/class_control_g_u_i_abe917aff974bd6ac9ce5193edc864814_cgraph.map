@@ -1,0 +1,5 @@
+<map id="ControlGUI::_robot_status" name="ControlGUI::_robot_status">
+<area shape="rect" id="node2" href="$class_flying_messenger.html#a8d9bc3b74d2cbad7bcefd2acf17205fd" title="Get the battery charge value. " alt="" coords="205,5,352,47"/>
+<area shape="rect" id="node3" href="$class_control_g_u_i.html#ae165819cbfce64d6604aac836faf9f1a" title="ControlGUI::get_robot_id" alt="" coords="195,71,362,98"/>
+<area shape="rect" id="node4" href="$class_control_g_u_i.html#a79310d7b529eb07bbc67f7873964914f" title="Updates a single robot&#39;s battery status. " alt="" coords="185,123,372,164"/>
+</map>

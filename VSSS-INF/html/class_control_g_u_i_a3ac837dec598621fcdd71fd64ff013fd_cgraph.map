@@ -1,0 +1,20 @@
+<map id="ControlGUI::ControlGUI" name="ControlGUI::ControlGUI">
+<area shape="rect" id="node2" href="$class_control_g_u_i.html#ae1e6b2a93d61568a7bf5cdc5870e1f6c" title="Creates the &#39;Robot Status&#39; frame on Control Gui. " alt="" coords="245,5,383,47"/>
+<area shape="rect" id="node3" href="$class_control_g_u_i.html#a90dbd3d101fa49c6926e3cef452fb0a2" title="Switches PID_test_flag value. " alt="" coords="235,71,393,98"/>
+<area shape="rect" id="node4" href="$class_control_g_u_i.html#abe917aff974bd6ac9ce5193edc864814" title="Update the battery status of all robots. " alt="" coords="248,173,380,215"/>
+<area shape="rect" id="node8" href="$class_control_g_u_i.html#a26002e2fa3dd7bcac791f54276670004" title="Sends the command of Serial&#39;s text label using Flying Messenger&#39;s send_old_format method..." alt="" coords="217,239,411,266"/>
+<area shape="rect" id="node10" href="$class_control_g_u_i.html#a0838b5d3b0d6651b7a1a58928bc83327" title="Gets the speed text labels from &#39;Serial&#39; frame and sends them as a command to the selected robot..." alt="" coords="234,122,394,149"/>
+<area shape="rect" id="node13" href="$class_control_g_u_i.html#ab56193e598145a8ad679029abaf0fd46" title="Initializes the selected communication device using flyingMessenger&#39;s start_xbee method. " alt="" coords="249,291,379,332"/>
+<area shape="rect" id="node15" href="$class_control_g_u_i.html#ac1c2a324c056d78dae8e2a0123855dc1" title="Updates the list of available communication devices on &#39;Serial&#39; frame combobox. " alt="" coords="243,356,385,397"/>
+<area shape="rect" id="node17" href="$class_flying_messenger.html#abf612e12b2a70f8069defbaa265d30d7" title="FlyingMessenger::get\l_frameskipper" alt="" coords="241,421,387,463"/>
+<area shape="rect" id="node18" href="$class_control_g_u_i.html#ab3017ac43a33b7dd0a79db25e354fcf2" title="Shows the frameskipper value on interface. " alt="" coords="216,487,412,514"/>
+<area shape="rect" id="node5" href="$class_control_g_u_i.html#ae165819cbfce64d6604aac836faf9f1a" title="ControlGUI::get_robot_id" alt="" coords="472,122,639,149"/>
+<area shape="rect" id="node6" href="$class_flying_messenger.html#a8d9bc3b74d2cbad7bcefd2acf17205fd" title="Get the battery charge value. " alt="" coords="482,173,629,215"/>
+<area shape="rect" id="node7" href="$class_control_g_u_i.html#a79310d7b529eb07bbc67f7873964914f" title="Updates a single robot&#39;s battery status. " alt="" coords="462,239,649,280"/>
+<area shape="rect" id="node9" href="$class_flying_messenger.html#a7dd37ffc3394c87f190cbf6dc9405304" title="Send command using old formatation of the string. " alt="" coords="477,304,634,345"/>
+<area shape="rect" id="node11" href="$class_control_g_u_i.html#ad2912b87e92a5db7125da7264c57cbde" title="Checks if a string is a float number. " alt="" coords="488,21,623,47"/>
+<area shape="rect" id="node12" href="$class_flying_messenger.html#a6cb8e42cf99c0a11afbb441db28864a3" title="This method calls sendMessage method from xbee (instance of SerialCom class) and pass id and msg..." alt="" coords="461,71,650,98"/>
+<area shape="rect" id="node14" href="$class_flying_messenger.html#ae0513090a7933976d04ce67f4d90b1f3" title="This method creates the xbee connection passing the port and the baudrate. " alt="" coords="460,370,651,397"/>
+<area shape="rect" id="node16" href="$class_flying_messenger.html#ab9ed5a0b43196b5771a469c03f213856" title="Stops xbee connection and purge the instance of xbee (instance of SerialCom class). " alt="" coords="461,421,650,447"/>
+<area shape="rect" id="node19" href="$class_flying_messenger.html#adc63fb3138c384505382a170729c5c1c" title="FlyingMessenger::set\l_frameskipper" alt="" coords="482,480,629,521"/>
+</map>

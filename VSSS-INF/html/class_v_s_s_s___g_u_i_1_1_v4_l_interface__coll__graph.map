@@ -1,0 +1,16 @@
+<map id="VSSS_GUI::V4LInterface" name="VSSS_GUI::V4LInterface">
+<area shape="rect" id="node38" href="$class_vision_g_u_i.html" title="VisionGUI" alt="" coords="616,1793,699,1820"/>
+<area shape="rect" id="node45" href="$class_robot_g_u_i.html" title="RobotGUI" alt="" coords="617,887,698,913"/>
+<area shape="rect" id="node3" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_frmivalenum \&gt;" alt="" coords="572,2573,743,2629"/>
+<area shape="rect" id="node15" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_fmtdesc \&gt;" alt="" coords="572,2813,743,2869"/>
+<area shape="rect" id="node20" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_standard \&gt;" alt="" coords="572,2893,743,2949"/>
+<area shape="rect" id="node48" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_input \&gt;" alt="" coords="572,2653,743,2709"/>
+<area shape="rect" id="node50" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_frmsizeenum \&gt;" alt="" coords="572,2733,743,2789"/>
+<area shape="rect" id="node46" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_querymenu \&gt;" alt="" coords="572,2493,743,2549"/>
+<area shape="rect" id="node8" href="$class_image_view.html" title="ImageView" alt="" coords="614,2393,701,2420"/>
+<area shape="rect" id="node25" href="$classv4lcap.html" title="v4lcap" alt="" coords="627,128,687,155"/>
+<area shape="rect" id="node29" href="$structv4lcap_1_1buffer__holder.html" title="v4lcap::buffer_holder" alt="" coords="221,5,363,32"/>
+<area shape="rect" id="node35" href="$struct_v_s_s_s___g_u_i_1_1____ctrl__holder.html" title="VSSS_GUI::__ctrl_holder" alt="" coords="207,3220,377,3247"/>
+<area shape="rect" id="node36" title="STL class. " alt="" coords="252,3432,332,3459"/>
+<area shape="rect" id="node37" title="STL class. " alt="" coords="5,3425,132,3466"/>
+</map>

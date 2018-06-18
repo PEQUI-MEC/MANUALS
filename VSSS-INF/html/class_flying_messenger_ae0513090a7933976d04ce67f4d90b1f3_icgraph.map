@@ -1,0 +1,4 @@
+<map id="FlyingMessenger::start_xbee" name="FlyingMessenger::start_xbee">
+<area shape="rect" id="node2" href="$class_control_g_u_i.html#ab56193e598145a8ad679029abaf0fd46" title="Initializes the selected communication device using flyingMessenger&#39;s start_xbee method. " alt="" coords="244,5,373,47"/>
+<area shape="rect" id="node3" href="$class_control_g_u_i.html#a3ac837dec598621fcdd71fd64ff013fd" title="Constructor of a ControlGUI object. " alt="" coords="421,13,584,39"/>
+</map>

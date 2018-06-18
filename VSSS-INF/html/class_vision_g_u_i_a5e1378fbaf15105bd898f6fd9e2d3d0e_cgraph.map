@@ -1,0 +1,10 @@
+<map id="VisionGUI::__event_bt_switchMainAdv_clicked" name="VisionGUI::__event_bt_switchMainAdv_clicked">
+<area shape="rect" id="node2" href="$class_vision.html#a563041d47d11e0912227c3ce87dcc22e" title="Vision::getAmin" alt="" coords="271,5,386,32"/>
+<area shape="rect" id="node3" href="$class_vision.html#ad15cc7e3c696c7f52e30e7974337c74f" title="Vision::getBlur" alt="" coords="275,56,382,83"/>
+<area shape="rect" id="node4" href="$class_vision.html#a0d07157e3d9bb577940f03365c8f57e8" title="Vision::getDilate" alt="" coords="269,107,388,133"/>
+<area shape="rect" id="node5" href="$class_vision.html#a6cc4617b0af832b4cb94e00cc845c317" title="Vision::getErode" alt="" coords="269,157,388,184"/>
+<area shape="rect" id="node6" href="$class_vision.html#adc6eb838fa27551430516e80a547a6bd" title="Vision::getHue" alt="" coords="275,208,383,235"/>
+<area shape="rect" id="node7" href="$class_vision.html#a023ff4cc4ee3a88125fd2a3c60d1b529" title="Vision::getSaturation" alt="" coords="257,259,400,285"/>
+<area shape="rect" id="node8" href="$class_vision.html#a04d1bcce0fd15a5d66752723f21c0dea" title="Vision::getValue" alt="" coords="270,309,387,336"/>
+<area shape="rect" id="node9" href="$class_vision.html#a11fa5150abbd3b37e78999b46b7b3a84" title="Vision::switchMainWithAdv" alt="" coords="237,360,420,387"/>
+</map>

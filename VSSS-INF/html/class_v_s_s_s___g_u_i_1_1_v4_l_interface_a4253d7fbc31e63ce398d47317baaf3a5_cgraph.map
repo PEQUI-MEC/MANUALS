@@ -1,0 +1,6 @@
+<map id="VSSS_GUI::V4LInterface::grab_rgb" name="VSSS_GUI::V4LInterface::grab_rgb">
+<area shape="rect" id="node2" href="$classv4lcap.html#a4ef7f2a17a32f5b89bf9ddce123a3b52" title="v4lcap::grab_rgb" alt="" coords="224,31,343,57"/>
+<area shape="rect" id="node3" href="$classv4lcap.html#a73678c131c1ac6c555be3ea125be08da" title="Dequeue buffers allocated. " alt="" coords="391,5,537,32"/>
+<area shape="rect" id="node5" href="$classv4lcap.html#a61dcacb5bb57a9f8c72d6942f46e9ddc" title="Enqueue requested buffers and set capture params. " alt="" coords="391,56,537,83"/>
+<area shape="rect" id="node4" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="585,31,684,57"/>
+</map>

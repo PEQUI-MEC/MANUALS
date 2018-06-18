@@ -1,0 +1,8 @@
+<map id="Strategy::position_to_vector" name="Strategy::position_to_vector">
+<area shape="rect" id="node2" href="$class_robots.html#abc1028ef8481db1426eb5a093c554ac9" title="Robots::get_cmdType" alt="" coords="181,5,332,32"/>
+<area shape="rect" id="node5" href="$class_robots.html#a1fca8f2f5070176faa6ba1efa2f1ff14" title="Robots::get_position" alt="" coords="185,56,328,83"/>
+<area shape="rect" id="node6" href="$class_robots.html#a8a4fe339df4823e45cf34d9fb8daa64b" title="Robots::get_target" alt="" coords="191,107,322,133"/>
+<area shape="rect" id="node7" href="$class_robots.html#ac18c807efc15557ce996563bb76451ea" title="Robots::set_transAngle" alt="" coords="177,157,336,184"/>
+<area shape="rect" id="node3" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="384,81,531,108"/>
+<area shape="rect" id="node4" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="579,81,693,108"/>
+</map>

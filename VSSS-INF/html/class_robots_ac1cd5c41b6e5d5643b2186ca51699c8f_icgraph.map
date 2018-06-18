@@ -1,0 +1,14 @@
+<map id="Robots::set_target" name="Robots::set_target">
+<area shape="rect" id="node2" href="$class_strategy.html#a7af0ec883fe9e80c31cf030ce203f956" title="Strategy::atk_routine" alt="" coords="383,168,525,194"/>
+<area shape="rect" id="node7" href="$class_strategy.html#a8d1fa6e7cb13f7eb135bc853beef462d" title="Strategy::collision\l_check" alt="" coords="391,240,517,282"/>
+<area shape="rect" id="node8" href="$class_strategy.html#a641f0314f2b05faa6d6838351a479f38" title="Strategy::crop_targets" alt="" coords="184,37,335,64"/>
+<area shape="rect" id="node9" href="$class_strategy.html#a304c52736ec76d275adda7eeacdd430c" title="Strategy::def_routine" alt="" coords="383,88,525,114"/>
+<area shape="rect" id="node10" href="$class_strategy.html#a0e93b877f1da0c7a608c5641812f54d4" title="Strategy::gk_routine" alt="" coords="385,306,523,333"/>
+<area shape="rect" id="node11" href="$class_robots.html#afb5fa179562bd2f6f45c9231c2bbca88" title="Robots::kick" alt="" coords="211,88,307,114"/>
+<area shape="rect" id="node12" href="$class_cam_cap.html#a93f8ee79ed618c215139e40eb0485c9f" title="Executes the &#39;PID Test on click&#39; at the control panel. " alt="" coords="578,330,713,357"/>
+<area shape="rect" id="node13" href="$class_strategy.html#aef2ebe9a76fdb114d547f024e332b3d3" title="Strategy::pot_field\l_around" alt="" coords="195,139,323,180"/>
+<area shape="rect" id="node3" href="$class_strategy.html#ab1c455b23e8b7f3377132a3e243f8f76" title="Strategy::get_targets" alt="" coords="573,248,717,274"/>
+<area shape="rect" id="node4" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="765,276,956,302"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="1004,276,1153,302"/>
+<area shape="rect" id="node6" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="1201,276,1336,302"/>
+</map>

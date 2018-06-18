@@ -1,0 +1,9 @@
+<map id="CamCap::updateAllPositions" name="CamCap::updateAllPositions">
+<area shape="rect" id="node2" href="$class_vision.html#a17e19e24cfc7948f646a3cca0488437a" title="Vision::getBall" alt="" coords="276,5,383,32"/>
+<area shape="rect" id="node3" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a13330b40a7cbd68c2ed4a244f0726810" title="Updates the interface&#39;s FPS value (Positions frame) " alt="" coords="244,57,415,98"/>
+<area shape="rect" id="node4" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a32c034643a07b5354ad50541413ff08d" title="Updates robots and ball positions on interface (Positions frame) " alt="" coords="244,122,415,163"/>
+<area shape="rect" id="node5" href="$class_robots.html#a1fca8f2f5070176faa6ba1efa2f1ff14" title="Robots::get_position" alt="" coords="470,104,613,131"/>
+<area shape="rect" id="node8" href="$class_robots.html#ae1d0829c1089322c8fac5830f65b13a0" title="Robots::get_orientation" alt="" coords="463,155,620,181"/>
+<area shape="rect" id="node6" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="668,129,815,156"/>
+<area shape="rect" id="node7" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="863,129,977,156"/>
+</map>

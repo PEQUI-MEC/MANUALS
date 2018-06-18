@@ -1,0 +1,13 @@
+<map id="VSSS_GUI::V4LInterface::__make_control_list_default" name="VSSS_GUI::V4LInterface::__make_control_list_default">
+<area shape="rect" id="node2" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ad6eddc5cedbaf1b0e87b330aae937b46" title="VSSS_GUI::V4LInterface\l::__set_control" alt="" coords="231,173,402,215"/>
+<area shape="rect" id="node8" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#aa14a838434102fd12d5d0ffbc242e753" title="VSSS_GUI::V4LInterface\l::__set_control_hscale" alt="" coords="231,108,402,149"/>
+<area shape="rect" id="node9" href="$classv4lcap.html#a34897884f1bfc348eea63d49d09417f7" title="v4lcap::enum_control\l_default" alt="" coords="475,5,621,47"/>
+<area shape="rect" id="node11" href="$classv4lcap.html#a9d192d856a6f4243a4a4508beef2e211" title="Fills menu controll with values. " alt="" coords="224,239,409,266"/>
+<area shape="rect" id="node3" href="$classv4lcap.html#a863a15d2d66cc0b7367dcc9cba64e0bd" title="Set the control object. " alt="" coords="482,189,614,215"/>
+<area shape="rect" id="node5" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#afbb5daccfdce20180578025c108ef65b" title="VSSS_GUI::V4LInterface\l::__update_control_widgets" alt="" coords="457,123,639,164"/>
+<area shape="rect" id="node4" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="920,130,1019,157"/>
+<area shape="rect" id="node6" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a677d3f2d0246528bafd19cf2d3dccf98" title="VSSS_GUI::V4LInterface\l::__block_control_signals" alt="" coords="694,123,865,164"/>
+<area shape="rect" id="node7" href="$classv4lcap.html#affd6d918400a56e165d7a3e4fab8bdae" title="Get the control object. " alt="" coords="713,71,845,98"/>
+<area shape="rect" id="node10" href="$classv4lcap.html#acede842207240d9eb3b4a8d99ff32fc4" title="Query control options. " alt="" coords="706,17,853,43"/>
+<area shape="rect" id="node12" href="$classv4lcap.html#aa23f5ba6c1828dc3af8258d8a33b95e4" title="Query control menu. " alt="" coords="687,239,872,266"/>
+</map>

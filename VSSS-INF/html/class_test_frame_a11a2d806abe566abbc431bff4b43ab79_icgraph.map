@@ -1,0 +1,5 @@
+<map id="TestFrame::configureHScale" name="TestFrame::configureHScale">
+<area shape="rect" id="node2" href="$class_control_g_u_i.html#a3bd87790c510afe1eb2fe7e33474d145" title="Creates the Text frame on Control Gui. " alt="" coords="247,5,421,47"/>
+<area shape="rect" id="node3" href="$class_strategy_g_u_i.html#aaeb2b9affadab5eafc8885f983a1cc36" title="Inicialization of labels and values from Test Parameters frame. " alt="" coords="243,71,425,112"/>
+<area shape="rect" id="node4" href="$class_strategy_g_u_i.html#a6676ae87f9ccabe157ec8e60f94041b7" title="Constructor of a StrategyGUI object. " alt="" coords="473,78,649,105"/>
+</map>

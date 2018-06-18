@@ -1,0 +1,19 @@
+<map id="RobotGUI::RobotGUI" name="RobotGUI::RobotGUI">
+<area shape="rect" id="node2" href="$class_robot_g_u_i.html#ae936fdefc6553a75ec8c1971c50c4add" title="RobotGUI::create_functions\l_frame" alt="" coords="201,78,387,120"/>
+<area shape="rect" id="node9" href="$class_robot_g_u_i.html#a0aa53fbc31e2740779cb078f440a4891" title="RobotGUI::create_ids\l_frame" alt="" coords="219,242,369,284"/>
+<area shape="rect" id="node14" href="$class_robot_g_u_i.html#a05b171a9b805af42e32ed9036478dafe" title="RobotGUI::create_speeds\l_frame" alt="" coords="207,398,381,440"/>
+<area shape="rect" id="node3" href="$class_robots.html#ac5cdd16502bd325581fb2d732169a326" title="Robots::get_role" alt="" coords="673,50,791,76"/>
+<area shape="rect" id="node6" href="$class_robot_g_u_i.html#a7b15515d7ea036f2b59d62bc6cdc476b" title="RobotGUI::event_robots\l_function_edit_bt_signal\l_clicked" alt="" coords="443,31,607,87"/>
+<area shape="rect" id="node7" href="$class_robot_g_u_i.html#a772f8b103a92bc866827c5553451120e" title="RobotGUI::event_robots\l_function_done_bt_signal\l_clicked" alt="" coords="441,111,610,167"/>
+<area shape="rect" id="node4" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="848,290,995,316"/>
+<area shape="rect" id="node5" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="1043,290,1157,316"/>
+<area shape="rect" id="node8" href="$class_robots.html#a3694b6380b113b7c38a252fd3bbfcca3" title="Robots::set_role" alt="" coords="673,170,791,196"/>
+<area shape="rect" id="node10" href="$class_robots.html#a306bb88b37b41cff35018d51d8228d65" title="Robots::get_ID" alt="" coords="677,264,787,291"/>
+<area shape="rect" id="node11" href="$class_robot_g_u_i.html#a37c09ff17bc02e83aa616ac798b87ee7" title="RobotGUI::event_robots\l_id_edit_bt_signal_pressed" alt="" coords="436,242,615,284"/>
+<area shape="rect" id="node12" href="$class_robot_g_u_i.html#a92e50bc76f093abdd93e6c4eddb40a63" title="RobotGUI::event_robots\l_id_done_bt_signal_clicked" alt="" coords="435,308,616,349"/>
+<area shape="rect" id="node13" href="$class_robots.html#aea3f1278d0503cd81adc9ceea0a7d1df" title="SETTERS. " alt="" coords="677,315,787,342"/>
+<area shape="rect" id="node15" href="$class_robots.html#a4778a7c755c5cca4b5d1e2c3b46fb314" title="Robots::get_default\l_role_velocity" alt="" coords="664,366,800,408"/>
+<area shape="rect" id="node16" href="$class_robot_g_u_i.html#ad3e49c942794d65e38600e7d48681fa1" title="RobotGUI::event_robots\l_speed_edit_bt_signal\l_pressed" alt="" coords="443,424,607,480"/>
+<area shape="rect" id="node17" href="$class_robot_g_u_i.html#a7acb7bdc8533f946f2cbea74966147cc" title="RobotGUI::event_robots\l_speed_done_bt_signal\l_clicked" alt="" coords="443,504,607,560"/>
+<area shape="rect" id="node18" href="$class_robots.html#ae167e64868239ece6c9f5b35d6f6ba43" title="Robots::set_default\l_role_velocity" alt="" coords="664,472,800,513"/>
+</map>

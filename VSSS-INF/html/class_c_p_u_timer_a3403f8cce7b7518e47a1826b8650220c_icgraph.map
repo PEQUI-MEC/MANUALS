@@ -1,0 +1,7 @@
+<map id="CPUTimer::getCPUTime" name="CPUTimer::getCPUTime">
+<area shape="rect" id="node2" href="$class_c_p_u_timer.html#a8712b4f64c79a210e91bbb72ed55bfc1" title="CPUTimer::start" alt="" coords="221,5,340,32"/>
+<area shape="rect" id="node6" href="$class_c_p_u_timer.html#afc986e87c38afb37b7911f8424726d1d" title="CPUTimer::stop" alt="" coords="222,56,339,83"/>
+<area shape="rect" id="node3" href="$class_cam_cap.html#a87f384c5fec40a0ccfd7833347fec0df" title="Captures camera frames and shows it in the interface. " alt="" coords="388,31,579,57"/>
+<area shape="rect" id="node4" href="$class_cam_cap.html#ae676e6624dd821ad494a80e68a41e249" title="Interface adjustments after &#39;start&#39; button is clicked. " alt="" coords="627,31,776,57"/>
+<area shape="rect" id="node5" href="$class_cam_cap.html#afe0db98a5f72bc9b261dcb78e2840da6" title="Constructor of a CamCap object. " alt="" coords="824,31,959,57"/>
+</map>

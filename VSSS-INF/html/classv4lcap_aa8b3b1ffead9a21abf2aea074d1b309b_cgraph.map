@@ -1,0 +1,6 @@
+<map id="v4lcap::start_capturing" name="v4lcap::start_capturing">
+<area shape="rect" id="node2" href="$classv4lcap.html#a61dcacb5bb57a9f8c72d6942f46e9ddc" title="Enqueue requested buffers and set capture params. " alt="" coords="208,5,355,32"/>
+<area shape="rect" id="node4" href="$classv4lcap.html#a238573a18b367ebc812a49f4f1917012" title="Query buffers to camera. " alt="" coords="211,56,351,83"/>
+<area shape="rect" id="node5" href="$classv4lcap.html#abb1f77b86c0368cd40dab1fb8d4a2565" title="Query stream to initiate. " alt="" coords="220,107,343,133"/>
+<area shape="rect" id="node3" href="$classv4lcap.html#ab5aaa5a8c0df17f5ca57e0b5170232cb" title="v4lcap::xioctl" alt="" coords="403,56,501,83"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="src/camcap.hpp" name="src/camcap.hpp">
+<area shape="rect" id="node2" href="$debug_8hpp.html" title="Debug Namespace. " alt="" coords="1977,229,2084,256"/>
+<area shape="rect" id="node21" href="$kalman_filter_8hpp.html" title="aux/kalmanFilter.hpp" alt="" coords="54,229,197,256"/>
+<area shape="rect" id="node22" href="$strategy_g_u_i_8hpp.html" title="gui/strategyGUI.hpp" alt="" coords="1896,80,2035,107"/>
+<area shape="rect" id="node29" href="$constants_8hpp.html" title="constants.hpp" alt="" coords="1365,229,1469,256"/>
+<area shape="rect" id="node31" href="$control_g_u_i_8hpp.html" title="gui/controlGUI.hpp" alt="" coords="3623,155,3753,181"/>
+<area shape="rect" id="node38" href="$v4linterface_8hpp.html" title="gui/v4linterface.hpp" alt="" coords="2675,80,2810,107"/>
+<area shape="rect" id="node45" href="$vision_8hpp.html" title="Vision Class. " alt="" coords="1493,229,1624,256"/>
+<area shape="rect" id="node48" href="$cpu_timer_8hpp.html" title="aux/cpuTimer.hpp" alt="" coords="3983,155,4110,181"/>
+<area shape="rect" id="node24" href="$strategy_8hpp.html" title="../strategy.hpp" alt="" coords="1647,155,1753,181"/>
+<area shape="rect" id="node30" href="$filechooser_8hpp.html" title="filechooser.hpp" alt="" coords="2311,229,2422,256"/>
+<area shape="rect" id="node25" href="$ls_8hpp.html" title="aux/ls.hpp" alt="" coords="1760,229,1843,256"/>
+<area shape="rect" id="node26" href="$robots_8hpp.html" title="Robot&#39;s Manager Singleton Class. " alt="" coords="2432,304,2515,331"/>
+<area shape="rect" id="node27" href="$test_frame_8hpp.html" title="gui/testFrame.hpp" alt="" coords="3005,229,3131,256"/>
+<area shape="rect" id="node32" href="$flying_messenger_8hpp.html" title="Communication methods with software and xbees. " alt="" coords="3387,229,3634,256"/>
+<area shape="rect" id="node42" href="$v4lcap_8hpp.html" title="../capture/v4lcap.hpp" alt="" coords="2511,155,2655,181"/>
+<area shape="rect" id="node43" href="$image_view_8hpp.html" title="imageView.hpp" alt="" coords="2870,229,2981,256"/>
+<area shape="rect" id="node44" href="$vision_g_u_i_8hpp.html" title="visionGUI.hpp" alt="" coords="2330,155,2435,181"/>
+<area shape="rect" id="node47" href="$robot_g_u_i_8hpp.html" title="Robot Configuration GUI. " alt="" coords="2746,229,2846,256"/>
+<area shape="rect" id="node46" href="$tag_8hpp.html" title="A Tag Class. " alt="" coords="1750,304,1815,331"/>
+</map>

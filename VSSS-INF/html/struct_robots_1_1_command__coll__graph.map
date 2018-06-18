@@ -1,0 +1,5 @@
+<map id="Robots::Command" name="Robots::Command">
+<area shape="rect" id="node2" href="$struct_robots_1_1_command_1_1___msg.html" title="The message (would be nice to use Union data structure but cv::Point has a constructor) ..." alt="" coords="95,213,267,240"/>
+<area shape="rect" id="node7" href="$struct_robots_1_1___status.html" title="A structure to communicate Robot&#39;s Status. " alt="" coords="313,213,430,240"/>
+<area shape="rect" id="node4" href="$struct_robots_1_1_command_1_1___msg_1_1___velocity.html" title="CMD_SPEED target wheel velocities. " alt="" coords="5,109,177,151"/>
+</map>

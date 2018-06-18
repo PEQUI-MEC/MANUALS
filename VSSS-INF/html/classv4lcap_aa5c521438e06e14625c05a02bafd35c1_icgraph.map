@@ -1,0 +1,18 @@
+<map id="v4lcap::get_format" name="v4lcap::get_format">
+<area shape="rect" id="node2" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ac83a8f5a54baf09ade5e3ec24ba91082" title="Event triggered when &#39;start&#39; button is clicked. " alt="" coords="656,22,831,63"/>
+<area shape="rect" id="node4" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ad2da97031a8ca5d9e2d99f5a5459c267" title="VSSS_GUI::V4LInterface\l::__update_cb_format_desc" alt="" coords="189,178,372,219"/>
+<area shape="rect" id="node12" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a0eeae871fc38dab3693860f6f391e062" title="VSSS_GUI::V4LInterface\l::__update_cb_frame_interval" alt="" coords="184,243,377,285"/>
+<area shape="rect" id="node13" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ab30bca15d7c9ffb5d3e7bc38ad2def25" title="VSSS_GUI::V4LInterface\l::__update_cb_frame_size" alt="" coords="193,309,368,350"/>
+<area shape="rect" id="node14" href="$classv4lcap.html#a04f75c0a68f0e8547925906a488bb50d" title="This method requests buffers from host system to allocate streaming from camera. " alt="" coords="217,76,345,103"/>
+<area shape="rect" id="node16" href="$classv4lcap.html#a6ad01c926c3162e858e030c8525cb94b" title="Set the frame size object. " alt="" coords="432,127,589,153"/>
+<area shape="rect" id="node17" href="$classv4lcap.html#a7da8705c4a542bb1118f74435957c471" title="Set the pixel format object. " alt="" coords="429,445,593,472"/>
+<area shape="rect" id="node3" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a8fafd828eacc6d5480649fa9fddc7ee4" title="Constructor of a V4LInterface object. " alt="" coords="891,238,1061,279"/>
+<area shape="rect" id="node5" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ac3fe0a20fd30c6e9505eb375ef63e52e" title="Update all combo box inputs on CaptureGUI. " alt="" coords="425,243,596,285"/>
+<area shape="rect" id="node6" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#af38c88f726a7ff9fab089ab9ed20c03c" title="Event triggered when a new device is selected in Device combobox. " alt="" coords="644,390,843,431"/>
+<area shape="rect" id="node7" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a09e546d62cf2363590490c2f9e85c951" title="Event triggered when a new input is selected in Input combobox. " alt="" coords="649,166,837,207"/>
+<area shape="rect" id="node8" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#adaa2a6e1946bb639d5be0ec3eb03cdb5" title="Event triggered when a new stantard is selected in Standard combobox. " alt="" coords="658,231,829,287"/>
+<area shape="rect" id="node9" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a41dc791b309dcb6e4469c6cc9d4a4852" title="Event triggered when a new format is selected in Format combobox. " alt="" coords="655,455,831,511"/>
+<area shape="rect" id="node10" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#a49e6f69de18f2bcb54db964375535e9f" title="Event triggered when a new frame size is selected in Frame size combobox. " alt="" coords="658,87,829,143"/>
+<area shape="rect" id="node11" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html#ad78e73dabab1c7caa41a45c363eef205" title="Event triggered when a new interval is selected in Interval combobox. " alt="" coords="650,311,837,367"/>
+<area shape="rect" id="node15" href="$classv4lcap.html#a4a7ee51c878ec735c9a24b517c63df16" title="This method starts capturing and streaming from opened device passing memory type and number of buffe..." alt="" coords="433,76,588,103"/>
+</map>

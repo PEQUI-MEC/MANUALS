@@ -1,0 +1,8 @@
+<map id="RobotGUI::create_ids_frame" name="RobotGUI::create_ids_frame">
+<area shape="rect" id="node2" href="$class_robot_g_u_i.html#a92e50bc76f093abdd93e6c4eddb40a63" title="RobotGUI::event_robots\l_id_done_bt_signal_clicked" alt="" coords="203,5,384,47"/>
+<area shape="rect" id="node6" href="$class_robots.html#a306bb88b37b41cff35018d51d8228d65" title="Robots::get_ID" alt="" coords="432,63,543,90"/>
+<area shape="rect" id="node7" href="$class_robot_g_u_i.html#a37c09ff17bc02e83aa616ac798b87ee7" title="RobotGUI::event_robots\l_id_edit_bt_signal_pressed" alt="" coords="204,123,383,164"/>
+<area shape="rect" id="node3" href="$class_robots.html#aea3f1278d0503cd81adc9ceea0a7d1df" title="SETTERS. " alt="" coords="432,13,543,39"/>
+<area shape="rect" id="node4" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="591,38,737,65"/>
+<area shape="rect" id="node5" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="785,38,900,65"/>
+</map>

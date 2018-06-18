@@ -1,0 +1,9 @@
+<map id="VisionGUI::__event_bt_left_HSV_calib_clicked" name="VisionGUI::__event_bt_left_HSV_calib_clicked">
+<area shape="rect" id="node2" href="$class_vision.html#a563041d47d11e0912227c3ce87dcc22e" title="Vision::getAmin" alt="" coords="250,5,365,32"/>
+<area shape="rect" id="node3" href="$class_vision.html#ad15cc7e3c696c7f52e30e7974337c74f" title="Vision::getBlur" alt="" coords="254,56,361,83"/>
+<area shape="rect" id="node4" href="$class_vision.html#a0d07157e3d9bb577940f03365c8f57e8" title="Vision::getDilate" alt="" coords="248,107,367,133"/>
+<area shape="rect" id="node5" href="$class_vision.html#a6cc4617b0af832b4cb94e00cc845c317" title="Vision::getErode" alt="" coords="248,157,367,184"/>
+<area shape="rect" id="node6" href="$class_vision.html#adc6eb838fa27551430516e80a547a6bd" title="Vision::getHue" alt="" coords="253,208,361,235"/>
+<area shape="rect" id="node7" href="$class_vision.html#a023ff4cc4ee3a88125fd2a3c60d1b529" title="Vision::getSaturation" alt="" coords="236,259,379,285"/>
+<area shape="rect" id="node8" href="$class_vision.html#a04d1bcce0fd15a5d66752723f21c0dea" title="Vision::getValue" alt="" coords="249,309,366,336"/>
+</map>

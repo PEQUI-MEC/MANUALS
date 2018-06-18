@@ -1,0 +1,16 @@
+<map id="jsonSaveManager" name="jsonSaveManager">
+<area shape="rect" id="node2" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface.html" title="VSSS_GUI::V4LInterface" alt="" coords="855,1703,1026,1729"/>
+<area shape="rect" id="node36" href="$class_vision_g_u_i.html" title="VisionGUI" alt="" coords="451,2171,534,2197"/>
+<area shape="rect" id="node42" href="$class_robot_g_u_i.html" title="RobotGUI" alt="" coords="452,1171,533,1197"/>
+<area shape="rect" id="node4" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_frmivalenum \&gt;" alt="" coords="407,3249,578,3305"/>
+<area shape="rect" id="node16" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_fmtdesc \&gt;" alt="" coords="407,3437,578,3493"/>
+<area shape="rect" id="node21" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_standard \&gt;" alt="" coords="407,3597,578,3653"/>
+<area shape="rect" id="node45" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_input \&gt;" alt="" coords="407,3357,578,3413"/>
+<area shape="rect" id="node47" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_frmsizeenum \&gt;" alt="" coords="407,3517,578,3573"/>
+<area shape="rect" id="node43" href="$class_v_s_s_s___g_u_i_1_1_v4_l_interface_1_1_model_column.html" title="VSSS_GUI::V4LInterface\l::ModelColumn\&lt; struct\l v4l2_querymenu \&gt;" alt="" coords="407,3125,578,3181"/>
+<area shape="rect" id="node9" href="$class_image_view.html" title="ImageView" alt="" coords="449,3040,536,3067"/>
+<area shape="rect" id="node26" href="$classv4lcap.html" title="v4lcap" alt="" coords="463,1703,523,1729"/>
+<area shape="rect" id="node35" title="STL class. " alt="" coords="52,461,132,488"/>
+<area shape="rect" id="node48" href="$classnlohmann_1_1basic__json.html" title="a class to store JSON values " alt="" coords="813,3779,1068,3879"/>
+<area shape="rect" id="node49" href="$unionnlohmann_1_1basic__json_1_1json__value.html" title="a JSON value " alt="" coords="365,3779,620,3879"/>
+</map>

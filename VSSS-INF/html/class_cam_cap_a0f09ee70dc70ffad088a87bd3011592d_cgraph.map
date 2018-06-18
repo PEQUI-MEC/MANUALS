@@ -1,0 +1,6 @@
+<map id="CamCap::send_cmd_thread" name="CamCap::send_cmd_thread">
+<area shape="rect" id="node2" href="$class_robots.html#a34e3959011295509ab032e3d96b3cd61" title="GETTERS. " alt="" coords="255,5,417,32"/>
+<area shape="rect" id="node5" href="$class_flying_messenger.html#a97b0db02039cde3d9d80225e4db0f23a" title="Iterates between all robots instances and send specific messages to each one. " alt="" coords="239,56,433,83"/>
+<area shape="rect" id="node3" href="$class_robots.html#a589bce74db5f34af384952d48435168f" title="Robots::get_instance" alt="" coords="481,5,628,32"/>
+<area shape="rect" id="node4" href="$class_robots.html#aa2745a48ebd3e52b9a3020f6afbcb25d" title="Initializes our arrays. " alt="" coords="676,5,791,32"/>
+</map>

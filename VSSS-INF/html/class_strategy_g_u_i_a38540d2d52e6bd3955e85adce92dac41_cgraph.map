@@ -1,0 +1,9 @@
+<map id="StrategyGUI::createFormationFrame" name="StrategyGUI::createFormationFrame">
+<area shape="rect" id="node2" href="$class_strategy_g_u_i.html#ada313ae77f231e7007ac83753cbdb5dc" title="Event triggered when the &#39;create formation&#39; button is clicked. " alt="" coords="270,5,413,61"/>
+<area shape="rect" id="node3" href="$class_strategy_g_u_i.html#a5301539a6dc0b88cf402bf62d372c8fb" title="Event triggered when the delete button is clicked. " alt="" coords="270,85,413,141"/>
+<area shape="rect" id="node4" href="$class_strategy_g_u_i.html#a616a0f321878532cf85cfd02564758b5" title="Loads formation.txt file and appends the saved formations on the checkbox. " alt="" coords="480,165,709,192"/>
+<area shape="rect" id="node6" href="$class_strategy_g_u_i.html#a3b4da86e02b0e51013801fed1ab9807f" title="Event triggered when a formation (or none) is selected. " alt="" coords="258,217,425,258"/>
+<area shape="rect" id="node7" href="$class_strategy_g_u_i.html#ac0caff70885aad2da169d808d97be3d2" title="Event triggered when a formation is selected and &#39;load&#39; button is clicked. " alt="" coords="253,282,430,323"/>
+<area shape="rect" id="node8" href="$class_strategy_g_u_i.html#a21327fb17108edba191fa216ec73aafd" title="Event triggered when the save button is clicked. " alt="" coords="251,347,432,389"/>
+<area shape="rect" id="node5" href="$class_strategy_g_u_i.html#a6d19f90621b2b2d6cad000b196e697d9" title="Converts a constant string to an inconstant one. " alt="" coords="757,165,956,192"/>
+</map>
